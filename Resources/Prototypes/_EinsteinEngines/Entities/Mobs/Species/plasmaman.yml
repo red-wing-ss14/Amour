@@ -21,7 +21,7 @@
     - map: [ "enum.HumanoidVisualLayers.RLeg" ]
     - map: [ "enum.HumanoidVisualLayers.LLeg" ]
     - shader: StencilClear
-      sprite: Mobs/Species/Human/parts.rsi
+      sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: l_leg
     - shader: StencilMask
       map: ["enum.HumanoidVisualLayers.StencilMask"]
@@ -64,7 +64,7 @@
     - map: [ "pocket2" ]
     - map: ["enum.HumanoidVisualLayers.Handcuffs"]
       color: "#ffffff"
-      sprite: Objects/Misc/handcuffs.rsi
+      sprite: _Amour/Objects/Misc/handcuffs.rsi
       state: body-overlay-2
       visible: false
     - map: [ "clownedon" ] # Dynamically generated

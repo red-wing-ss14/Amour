@@ -81,7 +81,7 @@
   - type: Item
     size: Large
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
     quickEquip: false
     slots:
     - Back
@@ -146,7 +146,7 @@
       - 0,0,6,1
     storedRotation: 45
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
     quickEquip: false
     slots:
     - Back
@@ -197,7 +197,7 @@
   description: A true relic, the Kardashev-Mosin has served in nearly every armed conflict since its creation 670 years ago. The bolt-action design of the rifle remains virtually identical to its original design, whether used for hunting, sniping, or endless trench warfare. Loads 10 rounds of 7.62mm rifle. # RW-Edit: .30 rifle > 7.62mm
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
     layers:
     - state: base
     - state: base1
@@ -306,10 +306,10 @@
   - type: Item
     size: Large
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/musket.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/musket.rsi
     state: base
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/musket.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/musket.rsi
   - type: Gun
     selectedMode: SemiAuto
     availableModes:
@@ -351,9 +351,9 @@
     - 0,1,0,1
     storedOffset: 0,-5
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/flintlock.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/flintlock.rsi
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/flintlock.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Snipers/flintlock.rsi
   - type: UseDelayOnShoot
   - type: UseDelay
     delay: 8 #it's a flintlock

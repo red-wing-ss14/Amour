@@ -40,7 +40,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/pyro_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -78,7 +78,7 @@
     - state: pink
     - sprite: Structures/Specific/anomaly.rsi
       state: anom3-pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -116,7 +116,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/shadow_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -154,7 +154,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/ice_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -192,7 +192,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/flora_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -230,7 +230,7 @@
     - state: pink
     - sprite: Structures/Specific/anomaly.rsi
       state: anom4-pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -268,7 +268,7 @@
     - state: pink
     - sprite: Structures/Specific/anomaly.rsi
       state: anom5-pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -306,7 +306,7 @@
     - state: pink
     - sprite: Structures/Specific/anomaly.rsi
       state: anom2-pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -345,7 +345,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/tech_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -384,7 +384,7 @@
     - sprite: Structures/Specific/anomaly.rsi
       state: anom6-pulse
       color: "#5ca8cb"
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:
@@ -422,7 +422,7 @@
     - state: pink
     - sprite: Structures/Specific/Anomalies/santa_anom.rsi
       state: pulse
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: InnerBodyAnomalyInjector
     injectionComponents:

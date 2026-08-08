@@ -2,6 +2,6 @@
   id: SheetPaper
   stackEntity: PaperStack
   name: materials-paper
-  icon: { sprite: Objects/Misc/bureaucracy.rsi, state: paper }
+  icon: { sprite: _Amour/Objects/Misc/bureaucracy.rsi, state: paper }
   color: "#ffffff"
   price: 0.05

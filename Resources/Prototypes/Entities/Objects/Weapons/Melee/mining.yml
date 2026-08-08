@@ -56,7 +56,7 @@
     tags:
     - Pickaxe
   - type: Sprite
-    sprite: Objects/Tools/handdrill.rsi
+    sprite: _Amour/Objects/Tools/handdrill.rsi
     state: handdrill
   - type: MeleeWeapon
     autoAttack: true

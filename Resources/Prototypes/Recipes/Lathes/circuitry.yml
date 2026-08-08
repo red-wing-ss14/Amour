@@ -19,7 +19,7 @@
 - type: latheRecipe
   parent: [ BaseCheapElectronicsRecipe, BaseCircuitryRecipeCategory ]
   id: FreezerElectronics
-  icon: { sprite: Structures/Storage/closet.rsi, state: freezer_icon } # Goobstation
+  icon: { sprite: _Amour/Structures/Storage/closet.rsi, state: freezer_icon } # Goobstation
   result: FreezerElectronics
 
 - type: latheRecipe
@@ -32,20 +32,20 @@
 - type: latheRecipe
   parent: [ BaseCheapElectronicsRecipe, BaseCircuitryRecipeCategory ]
   id: FirelockElectronics
-  icon: { sprite: Structures/Doors/Airlocks/Standard/firelock.rsi, state: closed } # Goobstation
+  icon: { sprite: _Amour/Structures/Doors/Airlocks/Standard/firelock.rsi, state: closed } # Goobstation
   result: FirelockElectronics
 
 - type: latheRecipe
   parent: [ BaseCheapElectronicsRecipe, BaseCircuitryRecipeCategory ]
   id: DoorElectronics
-  icon: { sprite: Structures/Doors/Airlocks/Glass/basic.rsi, state: closed } # Goobstation
+  icon: { sprite: _Amour/Structures/Doors/Airlocks/Glass/basic.rsi, state: closed } # Goobstation
   result: DoorElectronics
 
 # Power
 - type: latheRecipe
   parent: [ BaseCheapCircuitboardRecipe, BaseCircuitryRecipeCategory ]
   id: APCElectronics
-  icon: { sprite: Structures/Power/apc.rsi, state: static } # Goobstation
+  icon: { sprite: _Amour/Structures/Power/apc.rsi, state: static } # Goobstation
   result: APCElectronics
 
 - type: latheRecipe
@@ -58,7 +58,7 @@
 - type: latheRecipe
   parent: [ BaseCircuitboardRecipe, BaseCircuitryRecipeCategory ]
   id: WallmountSubstationElectronics
-  icon: { sprite:  Structures/Power/substation.rsi, state: substation } # Goobstation
+  icon: { sprite:  _Amour/Structures/Power/substation.rsi, state: substation } # Goobstation
   result: WallmountSubstationElectronics
 
 # Wallmount
@@ -77,7 +77,7 @@
 - type: latheRecipe
   parent: [ BaseElectronicsRecipe, BaseCircuitryRecipeCategory ]
   id: AirAlarmElectronics
-  icon: { sprite: Structures/Wallmounts/air_monitors.rsi, state: alarm0 } # Goobstation
+  icon: { sprite: _Amour/Structures/Wallmounts/air_monitors.rsi, state: alarm0 } # Goobstation
   result: AirAlarmElectronics
 
 - type: latheRecipe
@@ -89,7 +89,7 @@
 - type: latheRecipe
   parent: [ BaseElectronicsRecipe, BaseCircuitryRecipeCategory ]
   id: FireAlarmElectronics
-  icon: { sprite: Structures/Wallmounts/air_monitors.rsi, state: fire0 } # Goobstation
+  icon: { sprite: _Amour/Structures/Wallmounts/air_monitors.rsi, state: fire0 } # Goobstation
   result: FireAlarmElectronics
 
 # Mechs

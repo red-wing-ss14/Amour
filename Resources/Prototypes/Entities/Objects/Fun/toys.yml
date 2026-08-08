@@ -71,7 +71,7 @@
   description: A plastic banana.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/banana.rsi
+    sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
   - type: FlavorProfile
     flavors:
     - plastic

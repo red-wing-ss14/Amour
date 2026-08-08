@@ -18,7 +18,7 @@
     - type: CanBuildWindowOnTop
     - type: Sprite
       drawdepth: Walls
-      sprite: Structures/Walls/grille.rsi
+      sprite: _Amour/Structures/Walls/grille.rsi
       layers:
         - state: grille
         - state: electrified
@@ -27,7 +27,7 @@
           shader: unshaded
           visible: false
     - type: Icon
-      sprite: Structures/Walls/grille.rsi
+      sprite: _Amour/Structures/Walls/grille.rsi
       state: grille
     - type: Construction
       graph: Grille
@@ -98,12 +98,12 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     state: ratvargrille
     layers:
       - state: ratvargrille
   - type: Icon
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     state: ratvargrille
   - type: Construction
     graph: ClockGrille
@@ -118,10 +118,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Amour/Structures/Walls/grille.rsi
     state: grille_broken
   - type: Icon
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Amour/Structures/Walls/grille.rsi
     state: grille_broken
   - type: RCDDeconstructable
     cost: 6
@@ -160,10 +160,10 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     state: brokenratvargrille
   - type: Icon
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     state: brokenratvargrille
   - type: Construction
     graph: ClockGrille
@@ -176,7 +176,7 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Amour/Structures/Walls/grille.rsi
     layers:
     - state: grille_diagonal
     - state: electrified_diagonal
@@ -185,7 +185,7 @@
       shader: unshaded
       visible: false
   - type: Icon
-    sprite: Structures/Walls/grille.rsi
+    sprite: _Amour/Structures/Walls/grille.rsi
     state: grille_diagonal
   - type: Tag
     tags:
@@ -214,7 +214,7 @@
   components:
   - type: Sprite
     drawdepth: Walls
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     layers:
     - state: ratvargrille_diagonal
     - state: electrified_diagonal
@@ -223,7 +223,7 @@
       shader: unshaded
       visible: false
   - type: Icon
-    sprite: Structures/Walls/clockwork_grille.rsi
+    sprite: _Amour/Structures/Walls/clockwork_grille.rsi
     state: ratvargrille_diagonal
   - type: Tag
     tags:

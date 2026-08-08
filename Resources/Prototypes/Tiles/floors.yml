@@ -158,7 +158,7 @@
   id: FloorSteel
   parent: BaseStationTile
   name: tiles-steel-floor
-  sprite: /Textures/Tiles/steel.png
+  sprite: /Textures/_Amour/Tiles/steel.png
   variants: 4
   placementVariants:
   - 1.0
@@ -171,7 +171,7 @@
   id: FloorSteelCheckerLight
   parent: BaseStationTile
   name: tiles-steel-floor-checker-light
-  sprite: /Textures/Tiles/cafeteria.png
+  sprite: /Textures/_Amour/Tiles/cafeteria.png
   variants: 4
   placementVariants:
   - 1.0
@@ -184,7 +184,7 @@
   id: FloorSteelCheckerDark
   parent: BaseStationTile
   name: tiles-steel-floor-checker-dark
-  sprite: /Textures/Tiles/checker_dark.png
+  sprite: /Textures/_Amour/Tiles/checker_dark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -197,7 +197,7 @@
   id: FloorSteelMini
   parent: BaseStationTile
   name: tiles-steel-floor-mini
-  sprite: /Textures/Tiles/steel_mini.png
+  sprite: /Textures/_Amour/Tiles/steel_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -210,7 +210,7 @@
   id: FloorSteelPavement
   parent: BaseStationTile
   name: tiles-steel-floor-pavement
-  sprite: /Textures/Tiles/steel_pavement.png
+  sprite: /Textures/_Amour/Tiles/steel_pavement.png
   variants: 4
   placementVariants:
   - 1.0
@@ -223,7 +223,7 @@
   id: FloorSteelDiagonal
   parent: BaseStationTile
   name: tiles-steel-floor-diagonal
-  sprite: /Textures/Tiles/steel_diagonal.png
+  sprite: /Textures/_Amour/Tiles/steel_diagonal.png
   variants: 4
   placementVariants:
   - 1.0
@@ -236,14 +236,14 @@
   id: FloorSteelOffset
   parent: BaseStationTile
   name: tiles-steel-floor-offset
-  sprite: /Textures/Tiles/steel_offset.png
+  sprite: /Textures/_Amour/Tiles/steel_offset.png
   itemDrop: FloorTileItemSteelOffset
 
 - type: tile
   id: FloorSteelMono
   parent: BaseStationTile
   name: tiles-steel-floor-mono
-  sprite: /Textures/Tiles/steel_mono.png
+  sprite: /Textures/_Amour/Tiles/steel_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -256,7 +256,7 @@
   id: FloorSteelPavementVertical
   parent: BaseStationTile
   name: tiles-steel-floor-pavement-vertical
-  sprite: /Textures/Tiles/steel_pavement_vertical.png
+  sprite: /Textures/_Amour/Tiles/steel_pavement_vertical.png
   variants: 4
   placementVariants:
   - 1.0
@@ -269,7 +269,7 @@
   id: FloorSteelHerringbone
   parent: BaseStationTile
   name: tiles-steel-floor-herringbone
-  sprite: /Textures/Tiles/steel_herringbone.png
+  sprite: /Textures/_Amour/Tiles/steel_herringbone.png
   variants: 4
   placementVariants:
   - 1.0
@@ -282,7 +282,7 @@
   id: FloorSteelDiagonalMini
   parent: BaseStationTile
   name: tiles-steel-floor-diagonal-mini
-  sprite: /Textures/Tiles/steel_diagonal_mini.png
+  sprite: /Textures/_Amour/Tiles/steel_diagonal_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -295,7 +295,7 @@
   id: FloorBrassFilled
   parent: BaseStationTile
   name: tiles-brass-floor-filled
-  sprite: /Textures/Tiles/Misc/clockwork/clockwork_floor_filled.png
+  sprite: /Textures/_Amour/Tiles/Misc/clockwork/clockwork_floor_filled.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemBrassFilled
@@ -304,7 +304,7 @@
   id: FloorBrassReebe
   parent: BaseStationTile
   name: tiles-brass-floor-reebe
-  sprite: /Textures/Tiles/Misc/clockwork/reebe.png
+  sprite: /Textures/_Amour/Tiles/Misc/clockwork/reebe.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemBrassReebe
@@ -313,7 +313,7 @@
   id: FloorPlastic
   parent: BaseStationTile
   name: tiles-plastic-floor
-  sprite: /Textures/Tiles/plastic.png
+  sprite: /Textures/_Amour/Tiles/plastic.png
   variants: 4
   placementVariants:
   - 1.0
@@ -327,7 +327,7 @@
   id: FloorWood
   parent: BaseStationTile
   name: tiles-wood
-  sprite: /Textures/Tiles/wood.png
+  sprite: /Textures/_Amour/Tiles/wood.png
   variants: 4
   placementVariants:
   - 1.0
@@ -345,7 +345,7 @@
   id: FloorWhite
   parent: BaseStationTile
   name: tiles-white-floor
-  sprite: /Textures/Tiles/white.png
+  sprite: /Textures/_Amour/Tiles/white.png
   variants: 4
   placementVariants:
   - 1.0
@@ -361,7 +361,7 @@
   id: FloorWhiteMini
   parent: BaseStationTile
   name: tiles-white-floor-mini
-  sprite: /Textures/Tiles/white_mini.png
+  sprite: /Textures/_Amour/Tiles/white_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -377,7 +377,7 @@
   id: FloorWhitePavement
   parent: BaseStationTile
   name: tiles-white-floor-pavement
-  sprite: /Textures/Tiles/white_pavement.png
+  sprite: /Textures/_Amour/Tiles/white_pavement.png
   variants: 4
   placementVariants:
   - 1.0
@@ -393,7 +393,7 @@
   id: FloorWhiteDiagonal
   parent: BaseStationTile
   name: tiles-white-floor-diagonal
-  sprite: /Textures/Tiles/white_diagonal.png
+  sprite: /Textures/_Amour/Tiles/white_diagonal.png
   variants: 4
   placementVariants:
   - 1.0
@@ -409,7 +409,7 @@
   id: FloorWhiteOffset
   parent: BaseStationTile
   name: tiles-white-floor-offset
-  sprite: /Textures/Tiles/white_offset.png
+  sprite: /Textures/_Amour/Tiles/white_offset.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemWhiteOffset
@@ -419,7 +419,7 @@
   id: FloorWhiteMono
   parent: BaseStationTile
   name: tiles-white-floor-mono
-  sprite: /Textures/Tiles/white_mono.png
+  sprite: /Textures/_Amour/Tiles/white_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -435,7 +435,7 @@
   id: FloorWhitePavementVertical
   parent: BaseStationTile
   name: tiles-white-floor-pavement-vertical
-  sprite: /Textures/Tiles/white_pavement_vertical.png
+  sprite: /Textures/_Amour/Tiles/white_pavement_vertical.png
   variants: 4
   placementVariants:
   - 1.0
@@ -451,7 +451,7 @@
   id: FloorWhiteHerringbone
   parent: BaseStationTile
   name: tiles-white-floor-herringbone
-  sprite: /Textures/Tiles/white_herringbone.png
+  sprite: /Textures/_Amour/Tiles/white_herringbone.png
   variants: 4
   placementVariants:
   - 1.0
@@ -467,7 +467,7 @@
   id: FloorWhiteDiagonalMini
   parent: BaseStationTile
   name: tiles-white-floor-diagonal-mini
-  sprite: /Textures/Tiles/white_diagonal_mini.png
+  sprite: /Textures/_Amour/Tiles/white_diagonal_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -483,7 +483,7 @@
   id: FloorWhitePlastic
   parent: BaseStationTile
   name: tiles-plastic-white-floor
-  sprite: /Textures/Tiles/white_plastic.png
+  sprite: /Textures/_Amour/Tiles/white_plastic.png
   variants: 4
   placementVariants:
   - 1.0
@@ -499,7 +499,7 @@
   id: FloorDark
   parent: BaseStationTile
   name: tiles-dark-floor
-  sprite: /Textures/Tiles/dark.png
+  sprite: /Textures/_Amour/Tiles/dark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -514,7 +514,7 @@
   id: FloorDarkMini
   parent: BaseStationTile
   name: tiles-dark-floor-mini
-  sprite: /Textures/Tiles/dark_mini.png
+  sprite: /Textures/_Amour/Tiles/dark_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -529,7 +529,7 @@
   id: FloorDarkPavement
   parent: BaseStationTile
   name: tiles-dark-floor-pavement
-  sprite: /Textures/Tiles/dark_pavement.png
+  sprite: /Textures/_Amour/Tiles/dark_pavement.png
   variants: 4
   placementVariants:
   - 1.0
@@ -545,7 +545,7 @@
   id: FloorDarkDiagonal
   parent: BaseStationTile
   name: tiles-dark-floor-diagonal
-  sprite: /Textures/Tiles/dark_diagonal.png
+  sprite: /Textures/_Amour/Tiles/dark_diagonal.png
   variants: 4
   placementVariants:
   - 1.0
@@ -561,7 +561,7 @@
   id: FloorDarkOffset
   parent: BaseStationTile
   name: tiles-dark-floor-offset
-  sprite: /Textures/Tiles/dark_offset.png
+  sprite: /Textures/_Amour/Tiles/dark_offset.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemDarkOffset
@@ -571,7 +571,7 @@
   id: FloorDarkMono
   parent: BaseStationTile
   name: tiles-dark-floor-mono
-  sprite: /Textures/Tiles/dark_mono.png
+  sprite: /Textures/_Amour/Tiles/dark_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -587,7 +587,7 @@
   id: FloorDarkPavementVertical
   parent: BaseStationTile
   name: tiles-dark-floor-pavement-vertical
-  sprite: /Textures/Tiles/dark_pavement_vertical.png
+  sprite: /Textures/_Amour/Tiles/dark_pavement_vertical.png
   variants: 4
   placementVariants:
   - 1.0
@@ -603,7 +603,7 @@
   id: FloorDarkHerringbone
   parent: BaseStationTile
   name: tiles-dark-floor-herringbone
-  sprite: /Textures/Tiles/dark_herringbone.png
+  sprite: /Textures/_Amour/Tiles/dark_herringbone.png
   variants: 4
   placementVariants:
   - 1.0
@@ -619,7 +619,7 @@
   id: FloorDarkDiagonalMini
   parent: BaseStationTile
   name: tiles-dark-floor-diagonal-mini
-  sprite: /Textures/Tiles/dark_diagonal_mini.png
+  sprite: /Textures/_Amour/Tiles/dark_diagonal_mini.png
   variants: 4
   placementVariants:
   - 1.0
@@ -635,7 +635,7 @@
   id: FloorDarkPlastic
   parent: BaseStationTile
   name: tiles-plastic-dark-floor
-  sprite: /Textures/Tiles/dark_plastic.png
+  sprite: /Textures/_Amour/Tiles/dark_plastic.png
   variants: 4
   placementVariants:
   - 1.0
@@ -651,7 +651,7 @@
   id: FloorTechMaint
   parent: BaseStationTile
   name: tiles-techmaint-floor
-  sprite: /Textures/Tiles/tech_maint.png
+  sprite: /Textures/_Amour/Tiles/tech_maint.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemTechmaint
@@ -671,7 +671,7 @@
   id: FloorReinforced
   parent: BaseStationTile
   name: tiles-reinforced-floor
-  sprite: /Textures/Tiles/reinforced.png
+  sprite: /Textures/_Amour/Tiles/reinforced.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: PartRodMetal1
@@ -681,7 +681,7 @@
   id: FloorMono
   parent: BaseStationTile
   name: tiles-mono-floor
-  sprite: /Textures/Tiles/mono.png
+  sprite: /Textures/_Amour/Tiles/mono.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemMono
@@ -691,7 +691,7 @@
   id: FloorLino
   parent: BaseStationTile
   name: tiles-linoleum-floor
-  sprite: /Textures/Tiles/lino.png
+  sprite: /Textures/_Amour/Tiles/lino.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemLino
@@ -701,7 +701,7 @@
   id: FloorSteelDirty
   parent: BaseStationTile
   name: tiles-dirty-steel-floor
-  sprite: /Textures/Tiles/steel_dirty.png
+  sprite: /Textures/_Amour/Tiles/steel_dirty.png
   variants: 1
   ##placementVariants:
   #- 1.0
@@ -716,7 +716,7 @@
   id: FloorElevatorShaft
   parent: BaseStationTile
   name: tiles-elevator-shaft
-  sprite: /Textures/Tiles/elevator_shaft.png
+  sprite: /Textures/_Amour/Tiles/elevator_shaft.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemElevatorShaft
@@ -725,7 +725,7 @@
   id: FloorMetalDiamond
   parent: BaseStationTile
   name: tiles-diamond-plate-floor
-  sprite: /Textures/Tiles/metaldiamond.png
+  sprite: /Textures/_Amour/Tiles/metaldiamond.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemMetalDiamond
@@ -734,7 +734,7 @@
   id: FloorRockVault
   parent: BaseStationTile
   name: tiles-rock-floor
-  sprite: /Textures/Tiles/rock_vault.png
+  sprite: /Textures/_Amour/Tiles/rock_vault.png
   footstepSounds:
     collection: FootstepAsteroid
   itemDrop: FloorTileItemRockVault
@@ -744,7 +744,7 @@
   id: FloorBlue
   parent: BaseStationTile
   name: tiles-blue-tile
-  sprite: /Textures/Tiles/blue.png
+  sprite: /Textures/_Amour/Tiles/blue.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemBlue
@@ -754,7 +754,7 @@
   id: FloorSteelLime
   parent: BaseStationTile
   name: tiles-lime-floor
-  sprite: /Textures/Tiles/lime.png
+  sprite: /Textures/_Amour/Tiles/lime.png
   variants: 4
   placementVariants:
   - 1.0
@@ -767,7 +767,7 @@
   id: FloorMining
   parent: BaseStationTile
   name: tiles-mining-tile
-  sprite: /Textures/Tiles/mining_floor.png
+  sprite: /Textures/_Amour/Tiles/mining_floor.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemMining
@@ -777,7 +777,7 @@
   id: FloorMiningDark
   parent: BaseStationTile
   name: tiles-mining-dark-tile
-  sprite: /Textures/Tiles/mining_floor_dark.png
+  sprite: /Textures/_Amour/Tiles/mining_floor_dark.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemMiningDark
@@ -787,7 +787,7 @@
   id: FloorMiningLight
   parent: BaseStationTile
   name: tiles-mining-light-tile
-  sprite: /Textures/Tiles/mining_floor_light.png
+  sprite: /Textures/_Amour/Tiles/mining_floor_light.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemMiningLight
@@ -798,7 +798,7 @@
   id: FloorFreezer
   parent: BaseStationTile
   name: tiles-freezer
-  sprite: /Textures/Tiles/freezer.png
+  sprite: /Textures/_Amour/Tiles/freezer.png
   variants: 4
   footstepSounds:
     collection: FootstepHull
@@ -809,7 +809,7 @@
   id: FloorShowroom
   parent: BaseStationTile
   name: tiles-showroom-floor
-  sprite: /Textures/Tiles/showroom.png
+  sprite: /Textures/_Amour/Tiles/showroom.png
   itemDrop: FloorTileItemShowroom
   tileRipResistance: 100 # Goob
 
@@ -817,7 +817,7 @@
   id: FloorHydro
   parent: BaseStationTile
   name: tiles-hydro-floor
-  sprite: /Textures/Tiles/hydro.png
+  sprite: /Textures/_Amour/Tiles/hydro.png
   itemDrop: FloorTileItemHydro
   tileRipResistance: 50 # Goob
 
@@ -825,7 +825,7 @@
   id: FloorBar
   parent: BaseStationTile
   name: tiles-bar-floor
-  sprite: /Textures/Tiles/bar.png
+  sprite: /Textures/_Amour/Tiles/bar.png
   variants: 4
   placementVariants:
   - 1.0
@@ -839,7 +839,7 @@
   id: FloorClown
   parent: BaseStationTile
   name: tiles-clown-floor
-  sprite: /Textures/Tiles/clown.png
+  sprite: /Textures/_Amour/Tiles/clown.png
   itemDrop: FloorTileItemClown
   tileRipResistance: 50 # Goob
 
@@ -847,7 +847,7 @@
   id: FloorMime
   parent: BaseStationTile
   name: tiles-mime-floor
-  sprite: /Textures/Tiles/mime.png
+  sprite: /Textures/_Amour/Tiles/mime.png
   itemDrop: FloorTileItemMime
   tileRipResistance: 50 # Goob
 
@@ -855,7 +855,7 @@
   id: FloorKitchen
   parent: BaseStationTile
   name: tiles-kitchen-floor
-  sprite: /Textures/Tiles/kitchen.png
+  sprite: /Textures/_Amour/Tiles/kitchen.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemKitchen
@@ -865,7 +865,7 @@
   id: FloorLaundry
   parent: BaseStationTile
   name: tiles-laundry-floor
-  sprite: /Textures/Tiles/laundry.png
+  sprite: /Textures/_Amour/Tiles/laundry.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemLaundry
@@ -875,7 +875,7 @@
   id: FloorSteelDamaged
   parent: BaseStationTile
   name: tiles-steel-floor
-  sprite: /Textures/Tiles/steel_damaged.png
+  sprite: /Textures/_Amour/Tiles/steel_damaged.png
   variants: 5
   placementVariants:
   - 1.0
@@ -891,7 +891,7 @@
   id: FloorConcrete
   parent: BaseStationTile
   name: tiles-concrete-tile
-  sprite: /Textures/Tiles/Planet/Concrete/concrete.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/concrete.png
   variants: 4
   placementVariants:
   - 1.0
@@ -907,7 +907,7 @@
   id: FloorConcreteMono
   parent: BaseStationTile
   name: tiles-concrete-slab
-  sprite: /Textures/Tiles/Planet/Concrete/concrete_mono.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/concrete_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -923,7 +923,7 @@
   id: FloorConcreteSmooth
   parent: BaseStationTile
   name: tiles-concrete-smooth
-  sprite: /Textures/Tiles/Planet/Concrete/concrete_smooth.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/concrete_smooth.png
   variants: 4
   placementVariants:
   - 1.0
@@ -939,7 +939,7 @@
   id: FloorGrayConcrete
   parent: BaseStationTile
   name: tiles-gray-concrete-tile
-  sprite: /Textures/Tiles/Planet/Concrete/grayconcrete.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/grayconcrete.png
   variants: 4
   placementVariants:
   - 1.0
@@ -955,7 +955,7 @@
   id: FloorGrayConcreteMono
   parent: BaseStationTile
   name: tiles-gray-concrete-slab
-  sprite: /Textures/Tiles/Planet/Concrete/grayconcrete_mono.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/grayconcrete_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -971,7 +971,7 @@
   id: FloorGrayConcreteSmooth
   parent: BaseStationTile
   name: tiles-gray-concrete-smooth
-  sprite: /Textures/Tiles/Planet/Concrete/grayconcrete_smooth.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/grayconcrete_smooth.png
   variants: 4
   placementVariants:
   - 1.0
@@ -987,7 +987,7 @@
   id: FloorOldConcrete
   parent: BaseStationTile
   name: tiles-old-concrete-tile
-  sprite: /Textures/Tiles/Planet/Concrete/oldconcrete.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/oldconcrete.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1003,7 +1003,7 @@
   id: FloorOldConcreteMono
   parent: BaseStationTile
   name: tiles-old-concrete-slab
-  sprite: /Textures/Tiles/Planet/Concrete/oldconcrete_mono.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/oldconcrete_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1019,7 +1019,7 @@
   id: FloorOldConcreteSmooth
   parent: BaseStationTile
   name: tiles-old-concrete-smooth
-  sprite: /Textures/Tiles/Planet/Concrete/oldconcrete_smooth.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/oldconcrete_smooth.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1036,7 +1036,7 @@
   id: FloorArcadeBlue
   parent: BaseStationTile
   name: tiles-blue-arcade-floor
-  sprite: /Textures/Tiles/arcadeblue.png
+  sprite: /Textures/_Amour/Tiles/arcadeblue.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1049,7 +1049,7 @@
   id: FloorArcadeBlue2
   parent: BaseStationTile
   name: tiles-blue-arcade-floor
-  sprite: /Textures/Tiles/arcadeblue2.png
+  sprite: /Textures/_Amour/Tiles/arcadeblue2.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1062,7 +1062,7 @@
   id: FloorArcadeRed
   parent: BaseStationTile
   name: tiles-red-arcade-floor
-  sprite: /Textures/Tiles/arcadered.png
+  sprite: /Textures/_Amour/Tiles/arcadered.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1075,7 +1075,7 @@
   id: FloorEighties
   parent: BaseStationTile
   name: tiles-eighties-floor
-  sprite: /Textures/Tiles/eighties.png
+  sprite: /Textures/_Amour/Tiles/eighties.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1088,7 +1088,7 @@
   id: FloorCarpetClown
   parent: BaseStationTile
   name: tiles-clown-carpet-floor
-  sprite: /Textures/Tiles/carpetclown.png
+  sprite: /Textures/_Amour/Tiles/carpetclown.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1101,7 +1101,7 @@
   id: FloorCarpetOffice
   parent: BaseStationTile
   name: tiles-office-carpet-floor
-  sprite: /Textures/Tiles/carpetoffice.png
+  sprite: /Textures/_Amour/Tiles/carpetoffice.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1114,7 +1114,7 @@
   id: FloorBoxing
   parent: BaseStationTile
   name: tiles-boxing-ring-floor
-  sprite: /Textures/Tiles/boxing.png
+  sprite: /Textures/_Amour/Tiles/boxing.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1129,7 +1129,7 @@
   id: FloorGym
   parent: BaseStationTile
   name: tiles-gym-floor
-  sprite: /Textures/Tiles/gym.png
+  sprite: /Textures/_Amour/Tiles/gym.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1145,7 +1145,7 @@
   id: FloorShuttleWhite
   parent: BaseStationTile
   name: tiles-white-shuttle-floor
-  sprite: /Textures/Tiles/shuttlewhite.png
+  sprite: /Textures/_Amour/Tiles/shuttlewhite.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1158,7 +1158,7 @@
   id: FloorShuttleGrey
   parent: BaseStationTile
   name: tiles-grey-shuttle-floor
-  sprite: /Textures/Tiles/shuttlegrey.png
+  sprite: /Textures/_Amour/Tiles/shuttlegrey.png
   variants: 4 # Trauma - no
   #placementVariants:
   #- 1.0
@@ -1171,7 +1171,7 @@
   id: FloorShuttleBlack
   parent: BaseStationTile
   name: tiles-black-shuttle-floor
-  sprite: /Textures/Tiles/shuttleblack.png
+  sprite: /Textures/_Amour/Tiles/shuttleblack.png
   variants: 4 # Trauma - no
   #placementVariants:
   #- 1.0
@@ -1184,7 +1184,7 @@
   id: FloorShuttleBlue
   parent: BaseStationTile
   name: tiles-blue-shuttle-floor
-  sprite: /Textures/Tiles/shuttleblue.png
+  sprite: /Textures/_Amour/Tiles/shuttleblue.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1197,7 +1197,7 @@
   id: FloorShuttleOrange
   parent: BaseStationTile
   name: tiles-orange-shuttle-floor
-  sprite: /Textures/Tiles/shuttleorange.png
+  sprite: /Textures/_Amour/Tiles/shuttleorange.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1210,7 +1210,7 @@
   id: FloorShuttlePurple
   parent: BaseStationTile
   name: tiles-purple-shuttle-floor
-  sprite: /Textures/Tiles/shuttlepurple.png
+  sprite: /Textures/_Amour/Tiles/shuttlepurple.png
   variants: 4 # Trauma - no
   #placementVariants:
   #- 1.0
@@ -1223,7 +1223,7 @@
   id: FloorShuttleRed
   parent: BaseStationTile
   name: tiles-red-shuttle-floor
-  sprite: /Textures/Tiles/shuttlered.png
+  sprite: /Textures/_Amour/Tiles/shuttlered.png
   variants: 4 # Trauma - no
   #placementVariants:
   #- 1.0
@@ -1238,7 +1238,7 @@
   id: FloorGold
   parent: BaseStationTile
   name: tiles-gold-tile
-  sprite: /Textures/Tiles/gold.png
+  sprite: /Textures/_Amour/Tiles/gold.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemGold
@@ -1248,7 +1248,7 @@
   id: FloorSilver
   parent: BaseStationTile
   name: tiles-silver-tile
-  sprite: /Textures/Tiles/silver.png
+  sprite: /Textures/_Amour/Tiles/silver.png
   footstepSounds:
     collection: FootstepTile
   itemDrop: FloorTileItemSilver
@@ -1258,7 +1258,7 @@
   id: FloorGlass
   parent: BaseStationTile
   name: tiles-glass-floor
-  sprite: /Textures/Tiles/glass.png
+  sprite: /Textures/_Amour/Tiles/glass.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1274,7 +1274,7 @@
   id: FloorRGlass
   parent: BaseStationTile
   name: tiles-reinforced-glass-floor
-  sprite: /Textures/Tiles/rglass.png
+  sprite: /Textures/_Amour/Tiles/rglass.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1290,7 +1290,7 @@
   id: FloorMetalFoam
   parent: BaseStationTile
   name: tiles-metal-foam
-  sprite: /Textures/Tiles/foammetal.png
+  sprite: /Textures/_Amour/Tiles/foammetal.png
   variants: 1
   placementVariants:
   - 1.0
@@ -1303,7 +1303,7 @@
   id: FloorGreenCircuit
   parent: BaseStationTile
   name: tiles-green-circuit-floor
-  sprite: /Textures/Tiles/green_circuit.png
+  sprite: /Textures/_Amour/Tiles/green_circuit.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemGCircuit
@@ -1313,7 +1313,7 @@
   id: FloorBlueCircuit
   parent: BaseStationTile
   name: tiles-blue-circuit-floor
-  sprite: /Textures/Tiles/blue_circuit.png
+  sprite: /Textures/_Amour/Tiles/blue_circuit.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemBCircuit
@@ -1323,7 +1323,7 @@
   id: FloorRedCircuit
   parent: BaseStationTile
   name: tiles-red-circuit-floor
-  sprite: /Textures/Tiles/red_circuit.png
+  sprite: /Textures/_Amour/Tiles/red_circuit.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemRCircuit
@@ -1332,7 +1332,7 @@
 - type: tile
   id: FloorAsphalt
   name: tiles-asphalt
-  sprite: /Textures/Tiles/Planet/Concrete/asphalt.png
+  sprite: /Textures/_Amour/Tiles/Planet/Concrete/asphalt.png
   variants: 10
   placementVariants:
   - 1.0
@@ -1355,7 +1355,7 @@
 - type: tile
   id: FloorGrass
   name: tiles-planet-grass-floor
-  sprite: /Textures/Tiles/grass.png
+  sprite: /Textures/_Amour/Tiles/grass.png
   variants: 4
   baseTurf: FloorDirt
   isSubfloor: true
@@ -1368,7 +1368,7 @@
 - type: tile
   id: FloorGrassJungle
   name: tiles-jungle-grass-floor
-  sprite: /Textures/Tiles/grassjungle.png
+  sprite: /Textures/_Amour/Tiles/grassjungle.png
   variants: 4
   baseTurf: FloorDirt
   isSubfloor: true
@@ -1381,7 +1381,7 @@
 - type: tile
   id: FloorGrassDark
   name: tiles-dark-grass-floor
-  sprite: /Textures/Tiles/grassdark.png
+  sprite: /Textures/_Amour/Tiles/grassdark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1398,7 +1398,7 @@
 - type: tile
   id: FloorGrassLight
   name: tiles-light-grass-floor
-  sprite: /Textures/Tiles/grasslight.png
+  sprite: /Textures/_Amour/Tiles/grasslight.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1415,7 +1415,7 @@
 - type: tile
   id: FloorDirt
   name: tiles-dirt-floor
-  sprite: /Textures/Tiles/dirt.png
+  sprite: /Textures/_Amour/Tiles/dirt.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1434,7 +1434,7 @@
 - type: tile
   id: FloorAsteroidSandBorderless
   name: tiles-asteroid-sand-borderless
-  sprite: /Textures/Tiles/Asteroid/asteroid.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid.png
   variants: 13
   placementVariants:
     - 0.8
@@ -1463,19 +1463,19 @@
   name: tiles-asteroid-sand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    South: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    East: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    North: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    West: /Textures/Tiles/Asteroid/asteroid_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
 
 - type: tile
   id: FloorAsteroidSandDugBorderless
   name: tiles-asteroid-sand-borderless
-  sprite: /Textures/Tiles/Asteroid/asteroid_dug.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid_dug.png
   baseTurf: Space
   isSubfloor: true
   footstepSounds:
@@ -1489,19 +1489,19 @@
   name: tiles-asteroid-sand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    South: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    East: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    North: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    West: /Textures/Tiles/Asteroid/asteroid_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
 
 - type: tile
   id: FloorAsteroidSandRedBorderless
   name: tiles-asteroid-sand-borderless
-  sprite: /Textures/Tiles/Asteroid/asteroid_red.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid_red.png
   variants: 13
   placementVariants:
   - 0.8
@@ -1530,19 +1530,19 @@
   name: tiles-asteroid-sand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    South: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    East: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    North: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    West: /Textures/Tiles/Asteroid/asteroid_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
 
 - type: tile
   id: FloorAsteroidTile
   name: tiles-asteroid-tile
-  sprite: /Textures/Tiles/Asteroid/asteroid_tile.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid_tile.png
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -1554,7 +1554,7 @@
 - type: tile
   id: FloorAsteroidIronsandBorderless
   name: tiles-asteroid-ironsand-borderless
-  sprite: /Textures/Tiles/Asteroid/ironsand.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/ironsand.png
   variants: 15
   placementVariants:
   - 1.0
@@ -1585,19 +1585,19 @@
   name: tiles-asteroid-ironsand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/iron_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/iron_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/iron_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/iron_single_edge.png
-    South: /Textures/Tiles/Asteroid/iron_double_edge.png
-    East: /Textures/Tiles/Asteroid/iron_double_edge.png
-    North: /Textures/Tiles/Asteroid/iron_double_edge.png
-    West: /Textures/Tiles/Asteroid/iron_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
 
 - type: tile
   id: FloorAsteroidSandUnvariantizedBorderless
   name: tiles-asteroid-sand-borderless
-  sprite: /Textures/Tiles/Asteroid/asteroid0.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid0.png
   baseTurf: Space
   isSubfloor: true
   footstepSounds:
@@ -1611,19 +1611,19 @@
   name: tiles-asteroid-sand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/asteroid_single_edge.png
-    South: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    East: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    North: /Textures/Tiles/Asteroid/asteroid_double_edge.png
-    West: /Textures/Tiles/Asteroid/asteroid_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/asteroid_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/asteroid_double_edge.png
 
 - type: tile
   id: FloorAsteroidIronsandUnvariantizedBorderless
   name: tiles-asteroid-ironsand-borderless
-  sprite: /Textures/Tiles/Asteroid/ironsand0.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/ironsand0.png
   baseTurf: Space
   isSubfloor: true
   footstepSounds:
@@ -1637,20 +1637,20 @@
   name: tiles-asteroid-ironsand
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Asteroid/iron_single_edge.png
-    NorthEast: /Textures/Tiles/Asteroid/iron_single_edge.png
-    NorthWest: /Textures/Tiles/Asteroid/iron_single_edge.png
-    SouthWest: /Textures/Tiles/Asteroid/iron_single_edge.png
-    South: /Textures/Tiles/Asteroid/iron_double_edge.png
-    East: /Textures/Tiles/Asteroid/iron_double_edge.png
-    North: /Textures/Tiles/Asteroid/iron_double_edge.png
-    West: /Textures/Tiles/Asteroid/iron_double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Asteroid/iron_single_edge.png
+    South: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    East: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    North: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
+    West: /Textures/_Amour/Tiles/Asteroid/iron_double_edge.png
 
 # Caves
 - type: tile
   id: FloorCave
   name: tiles-cave
-  sprite: /Textures/Tiles/cave.png
+  sprite: /Textures/_Amour/Tiles/cave.png
   variants: 7
   placementVariants:
   - 1.0
@@ -1669,7 +1669,7 @@
 - type: tile
   id: FloorCaveDrought
   name: tiles-cave-drought
-  sprite: /Textures/Tiles/cavedrought.png
+  sprite: /Textures/_Amour/Tiles/cavedrought.png
   variants: 8
   placementVariants:
   - 1.0
@@ -1690,7 +1690,7 @@
   id: FloorFlesh
   parent: BaseStationTile
   name: tiles-flesh-floor
-  sprite: /Textures/Tiles/meat.png
+  sprite: /Textures/_Amour/Tiles/meat.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1707,7 +1707,7 @@
   id: FloorTechMaint2
   parent: BaseStationTile
   name: tiles-techmaint2-floor
-  sprite: /Textures/Tiles/steel_maint.png
+  sprite: /Textures/_Amour/Tiles/steel_maint.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemSteelMaint
@@ -1717,7 +1717,7 @@
   id: FloorTechMaint3
   parent: BaseStationTile
   name: tiles-techmaint3-floor
-  sprite: /Textures/Tiles/grating_maint.png
+  sprite: /Textures/_Amour/Tiles/grating_maint.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1733,7 +1733,7 @@
   id: FloorWoodTile
   parent: BaseStationTile
   name: tiles-wood2
-  sprite: /Textures/Tiles/wood_tile.png
+  sprite: /Textures/_Amour/Tiles/wood_tile.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1751,7 +1751,7 @@
   id: FloorBrokenWood
   parent: BaseStationTile
   name: tiles-wood3
-  sprite: /Textures/Tiles/wood_broken.png
+  sprite: /Textures/_Amour/Tiles/wood_broken.png
   variants: 7
   placementVariants:
   - 1.0
@@ -1772,7 +1772,7 @@
   id: FloorWebTile
   parent: BaseStationTile
   name: tiles-web
-  sprite: /Textures/Tiles/Misc/Web/web_tile.png
+  sprite: /Textures/_Amour/Tiles/Misc/Web/web_tile.png
   footstepSounds:
     collection: FootstepCarpet
   barestepSounds:
@@ -1783,7 +1783,7 @@
 - type: tile
   id: FloorChromite
   name: tiles-chromite
-  sprite: /Textures/Tiles/chromite.png
+  sprite: /Textures/_Amour/Tiles/chromite.png
   variants: 7
   placementVariants:
   - 1.0
@@ -1804,7 +1804,7 @@
   id: FloorHull
   parent: BaseStationTile
   name: tiles-hull
-  sprite: /Textures/Tiles/hull.png
+  sprite: /Textures/_Amour/Tiles/hull.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemSteel #probably should not be normally obtainable, but the game shits itself and dies when you try to put null here
@@ -1814,7 +1814,7 @@
   id: FloorReinforcedHardened
   parent: BaseStationTile
   name: tiles-super-reinforced-floor
-  sprite: /Textures/Tiles/super_reinforced.png
+  sprite: /Textures/_Amour/Tiles/super_reinforced.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: PartRodMetal1 #same case as FloorHull
@@ -1826,7 +1826,7 @@
   id: FloorAstroGrass
   parent: BaseStationTile
   name: tiles-astro-grass
-  sprite: /Textures/Tiles/Planet/Grass/grass.png
+  sprite: /Textures/_Amour/Tiles/Planet/Grass/grass.png
   variants: 4
   placementVariants:
   - 1.0
@@ -1835,14 +1835,14 @@
   - 1.0
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Planet/Grass/single_edge.png
-    NorthEast: /Textures/Tiles/Planet/Grass/single_edge.png
-    NorthWest: /Textures/Tiles/Planet/Grass/single_edge.png
-    SouthWest: /Textures/Tiles/Planet/Grass/single_edge.png
-    South: /Textures/Tiles/Planet/Grass/double_edge.png
-    East: /Textures/Tiles/Planet/Grass/double_edge.png
-    North: /Textures/Tiles/Planet/Grass/double_edge.png
-    West: /Textures/Tiles/Planet/Grass/double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    South: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    East: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    North: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    West: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
   deconstructTools: [ Cutting ]
   footstepSounds:
     collection: FootstepGrass
@@ -1890,7 +1890,7 @@
   id: FloorAstroIce
   parent: BaseStationTile
   name: tiles-astro-ice
-  sprite: /Textures/Tiles/Planet/Snow/ice.png
+  sprite: /Textures/_Amour/Tiles/Planet/Snow/ice.png
   friction: 0.05
   mobFriction: 0.05
   mobAcceleration: 0.1
@@ -1959,7 +1959,7 @@
   id: FloorWoodLarge
   parent: BaseStationTile
   name: tiles-wood-large
-  sprite: /Textures/Tiles/wood_large.png
+  sprite: /Textures/_Amour/Tiles/wood_large.png
   variants: 4
   placementVariants:
   - 1.0

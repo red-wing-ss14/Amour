@@ -23,12 +23,12 @@
     anchored: true
   - type: Clickable
   - type: Sprite
-    sprite: Tiles/Planet/Chasms/basalt_chasm.rsi
-    drawdepth: Chasms # RW edit: BelowFloor > Chasms
+    sprite: _Amour/Tiles/Planet/Chasms/basalt_chasm.rsi
+    drawdepth: Chasms # Amour edit: BelowFloor > Chasms
     layers:
     - state: chasm
   - type: Icon
-    sprite: Tiles/Planet/Chasms/basalt_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/basalt_chasm.rsi
     state: full
   - type: IconSmooth
     key: chasm
@@ -59,9 +59,9 @@
   suffix: Chromite
   components:
   - type: Sprite
-    sprite: Tiles/Planet/Chasms/chromite_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/chromite_chasm.rsi
   - type: Icon
-    sprite: Tiles/Planet/Chasms/chromite_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/chromite_chasm.rsi
 
 - type: entity
   parent: FloorChasmEntity
@@ -69,9 +69,9 @@
   suffix: Desert
   components:
   - type: Sprite
-    sprite: Tiles/Planet/Chasms/desert_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/desert_chasm.rsi
   - type: Icon
-    sprite: Tiles/Planet/Chasms/desert_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/desert_chasm.rsi
 
 - type: entity
   parent: FloorChasmEntity
@@ -79,6 +79,6 @@
   suffix: Snow
   components:
   - type: Sprite
-    sprite: Tiles/Planet/Chasms/snow_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/snow_chasm.rsi
   - type: Icon
-    sprite: Tiles/Planet/Chasms/snow_chasm.rsi
+    sprite: _Amour/Tiles/Planet/Chasms/snow_chasm.rsi

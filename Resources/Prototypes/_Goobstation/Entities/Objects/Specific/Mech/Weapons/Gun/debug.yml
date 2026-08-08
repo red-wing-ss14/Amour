@@ -7,7 +7,7 @@
   name: debug bang
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/SMGs/c20r.rsi
+    sprite: _Amour/Objects/Weapons/Guns/SMGs/c20r.rsi
     layers:
     - state: base
       map: ["enum.GunVisualLayers.Base"]

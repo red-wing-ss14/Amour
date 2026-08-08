@@ -93,7 +93,7 @@
 - type: cargoProduct
   id: CrateFunWaterGuns
   icon:
-    sprite: Objects/Weapons/Guns/Pistols/water_pistol.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Pistols/water_pistol.rsi
     state: display
   product: CrateFunWaterGuns
   cost: 750
@@ -153,7 +153,7 @@
 - type: cargoProduct
   id: FunSadTromboneImplants
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   product: CrateFunSadTromboneImplants
   cost: 1000
@@ -163,7 +163,7 @@
 - type: cargoProduct
   id: FunLightImplants
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   product: CrateFunLightImplants
   cost: 1000
@@ -203,7 +203,7 @@
 - type: cargoProduct
   id: FunBikeHornImplants
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   product: CrateFunBikeHornImplants
   cost: 1000

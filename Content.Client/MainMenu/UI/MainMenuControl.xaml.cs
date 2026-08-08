@@ -27,7 +27,7 @@ public sealed partial class MainMenuControl : Control
         LayoutContainer.SetMarginTop(VBox, 30);
         LayoutContainer.SetGrowHorizontal(VBox, LayoutContainer.GrowDirection.Begin);
 
-        var logoTexture = resCache.GetResource<TextureResource>("/Textures/_red-wing/Logo/red-wing.png"); // RW - Logo
+        var logoTexture = resCache.GetResource<TextureResource>("/Textures/_Amour/Logo/amour.png"); // Amour edit
         Logo.Texture = logoTexture;
 
         var currentUserName = configMan.GetCVar(CVars.PlayerName);

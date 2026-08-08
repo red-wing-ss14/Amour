@@ -38,7 +38,7 @@
           path:
             "/Audio/Weapons/slash.ogg"
     - type: Sprite
-      sprite: Objects/Misc/kudzu.rsi
+      sprite: _Amour/Objects/Misc/kudzu.rsi
       state: kudzu_11
       drawdepth: Overdoors
     - type: KudzuVisuals
@@ -137,7 +137,7 @@
       seeOverDrawDepth: -5
     - type: Sprite
       drawdepth: HighFloorObjects
-      sprite: Objects/Misc/kudzuflower.rsi
+      sprite: _Amour/Objects/Misc/kudzuflower.rsi
       state: kudzu_11
     - type: Kudzu
       spriteVariants: 5
@@ -199,7 +199,7 @@
           path:
             "/Audio/Weapons/slash.ogg"
     - type: Sprite
-      sprite: Objects/Misc/fleshkudzu.rsi
+      sprite: _Amour/Objects/Misc/fleshkudzu.rsi
       state: kudzu_11
       drawdepth: Overdoors
     - type: KudzuVisuals

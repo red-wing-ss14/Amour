@@ -143,7 +143,7 @@
       jumpsuit:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: jumpsuit-female
 
 - type: entity
@@ -158,5 +158,5 @@
       jumpsuit:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: jumpsuit-female

@@ -3,7 +3,7 @@
   name: research-technology-parts-name
   description: research-technology-parts-desc
   icon:
-    sprite: _RW/Objects/Misc/stock_parts.rsi
+    sprite: _Amour/Objects/Misc/stock_parts.rsi
     state: matter_bin
   discipline: Engineering
   tier: 1
@@ -36,7 +36,7 @@
   name: research-technology-upgraded-parts-name
   description: research-technology-upgraded-parts-desc
   icon:
-    sprite: _RW/Objects/Misc/stock_parts.rsi
+    sprite: _Amour/Objects/Misc/stock_parts.rsi
     state: advanced_matter_bin
   discipline: Engineering
   tier: 1
@@ -64,7 +64,7 @@
   name: research-technology-advanced-parts-name
   description: research-technology-advanced-parts-desc
   icon:
-    sprite: _RW/Objects/Misc/stock_parts.rsi
+    sprite: _Amour/Objects/Misc/stock_parts.rsi
     state: super_matter_bin
   discipline: Engineering
   tier: 1
@@ -94,7 +94,7 @@
   name: research-technology-parts-bluespace-name
   description: research-technology-parts-bluespace-desc
   icon:
-    sprite: _RW/Objects/Misc/stock_parts.rsi
+    sprite: _Amour/Objects/Misc/stock_parts.rsi
     state: bluespace_matter_bin
   discipline: Engineering
   tier: 1

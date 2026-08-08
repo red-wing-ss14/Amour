@@ -15,7 +15,7 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Objects/Weapons/Guns/SMGs/wt550.rsi
+    - sprite: _Amour/Objects/Weapons/Guns/SMGs/wt550.rsi
       state: icon
 
 - type: entity

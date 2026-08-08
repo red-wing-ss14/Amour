@@ -9,7 +9,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -24,7 +24,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -39,7 +39,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -54,7 +54,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -69,7 +69,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -84,7 +84,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -99,7 +99,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -114,7 +114,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -129,7 +129,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -144,7 +144,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -159,7 +159,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -174,7 +174,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -189,7 +189,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -204,7 +204,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -219,7 +219,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -234,7 +234,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -249,7 +249,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -264,7 +264,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -279,7 +279,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -294,7 +294,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -309,7 +309,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -324,7 +324,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -339,7 +339,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -354,7 +354,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -369,7 +369,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -384,7 +384,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -399,7 +399,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -414,7 +414,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -429,7 +429,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -444,7 +444,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -459,7 +459,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:
@@ -474,7 +474,7 @@
   - type: Sprite
     layers:
     - state: green
-    - sprite: Mobs/Species/Human/parts.rsi
+    - sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
   - type: ConditionalSpawner
     prototypes:

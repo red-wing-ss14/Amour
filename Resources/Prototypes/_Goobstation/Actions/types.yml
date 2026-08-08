@@ -157,7 +157,7 @@
     itemIconStyle: BigAction
     useDelay: 3
     icon:
-      sprite: Structures/Piping/Atmospherics/vent.rsi
+      sprite: _Amour/Structures/Piping/Atmospherics/vent.rsi
       state: vent_off
   - type: InstantAction
     event: !type:ToggleCrawlingStateEvent
@@ -209,7 +209,7 @@
   - type: Action
     itemIconStyle: NoItem
     icon:
-      sprite: Objects/Misc/fire_extinguisher.rsi
+      sprite: _Amour/Objects/Misc/fire_extinguisher.rsi
       state: fire_extinguisher_closed
     useDelay: 1
   - type: TargetAction

@@ -292,7 +292,7 @@
   name: chrono legionnaire
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: RandomMetadata
     nameSegments: [ NamesBorer ]
@@ -319,7 +319,7 @@
   suffix: ERTRole
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: RandomMetadata
     nameSegments:
@@ -357,7 +357,7 @@
   suffix: Admeme
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: RandomHumanoidSpawner
     settings: Gman
@@ -409,7 +409,7 @@
   suffix: Admeme
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: RandomHumanoidSpawner
     settings: Conquest

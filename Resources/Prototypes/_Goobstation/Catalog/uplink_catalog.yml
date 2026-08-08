@@ -550,7 +550,7 @@
   id: UplinkHardsuitSyndieMedic
   name: uplink-hardsuit-syndiemedic-name
   description: uplink-hardsuit-syndiemedic-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndiemedic.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Clothing/OuterClothing/Hardsuits/syndiemedic.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateMedicHardsuitBundle
   cost:
     Telecrystal: 50 # novelty item for the larp
@@ -569,7 +569,7 @@
   id: UplinkHardsuitSyndieCommander
   name: uplink-hardsuit-syndiecommander-name
   description: uplink-hardsuit-syndiecommander-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndiecommander.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Clothing/OuterClothing/Hardsuits/syndiecommander.rsi, state: icon }
   productEntity: ClothingOuterHardsuitSyndieCommander
   cost:
     Telecrystal: 100 # novelty item for the larp, doesnt come with bundle though because bulky fuck
@@ -953,7 +953,7 @@
   id: UplinkMindcontrolImplanter
   name: uplink-mindcontrol-implant-name
   description: uplink-mindcontrol-implant-desc
-  icon: { sprite: /Textures/Objects/Specific/Medical/syndi_implanter.rsi, state: implanter0 }
+  icon: { sprite: /Textures/_Amour/Objects/Specific/Medical/syndi_implanter.rsi, state: implanter0 }
   productEntity: MindcontrolImplanter
   cost:
     Telecrystal: 25 # Half the budget #bounty someone want it cheaper.
@@ -995,7 +995,7 @@
 #  id: UplinkStypticStimulatorImplanter
 #  name: uplink-styptic-stimulator-implant-name
 #  description: uplink-styptic-stimulator-implant-desc
-#  icon: { sprite: Objects/Specific/Medical/medical.rsi, state: brutepack }
+#  icon: { sprite: _Amour/Objects/Specific/Medical/medical.rsi, state: brutepack }
 #  productEntity: StypticStimulatorImplanter
 #  cost:
 #    Telecrystal: 40
@@ -1158,7 +1158,7 @@
   id: UplinkAutosurgeonRecoilAbsorber
   name: uplink-autosurgeon-recoil-absorbing-name
   description: uplink-autosurgeon-recoil-absorbing-desc
-  icon: { sprite: Objects/Weapons/Guns/LMGs/l6.rsi, state: icon }
+  icon: { sprite: _Amour/Objects/Weapons/Guns/LMGs/l6.rsi, state: icon }
   productEntity: AutosurgeonRecoilAbsorber
   cost:
     Telecrystal: 55 # RW-Edit: 40 > 55
@@ -1588,7 +1588,7 @@
   id: UplinkDarkGygax
   name: uplink-mech-teleporter-assault-name
   description: uplink-mech-teleporter-assault-desc
-  icon: { sprite: /Textures/Objects/Specific/Mech/mecha.rsi, state: darkgygax }
+  icon: { sprite: /Textures/_Amour/Objects/Specific/Mech/mecha.rsi, state: darkgygax }
   productEntity: CrateCybersunDarkGygaxBundle
   cost:
     Telecrystal: 375 # RW-Edit: 400 > 375
@@ -1604,7 +1604,7 @@
   id: UplinkMauler
   name: uplink-mech-teleporter-heavy-name
   description: uplink-mech-teleporter-heavy-desc
-  icon: { sprite: /Textures/Objects/Specific/Mech/mecha.rsi, state: mauler }
+  icon: { sprite: /Textures/_Amour/Objects/Specific/Mech/mecha.rsi, state: mauler }
   productEntity: CrateCybersunMaulerBundle
   cost:
     Telecrystal: 550 # RW-Edit: 650 > 550
@@ -2024,7 +2024,7 @@
   id: UplinkContractorCuffs
   name: uplink-cuffs-contractor-name
   description: uplink-cuffs-contractor-desc
-  icon: { sprite: /Textures/Objects/Misc/handcuffs.rsi, state: handcuff }
+  icon: { sprite: /Textures/_Amour/Objects/Misc/handcuffs.rsi, state: handcuff }
   productEntity: Handcuffs
   cost:
     Telecrystal: 2

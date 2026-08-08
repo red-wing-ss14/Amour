@@ -3,7 +3,7 @@
   name: research-technology-mech-assembly-name
   description: research-technology-mech-assembly-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     state: ripley
   discipline: Robotics
   tier: 1
@@ -29,7 +29,7 @@
   name: research-technology-mech-equipment-name
   description: research-technology-mech-equipment-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha_equipment.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha_equipment.rsi
     state: mecha_clamp
   discipline: Robotics
   tier: 1
@@ -53,7 +53,7 @@
   name: research-technology-mech-clown-name
   description: research-technology-mech-clown-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     state: honker
   discipline: Robotics
   tier: 1
@@ -110,7 +110,7 @@
   name: research-technology-mech-mining-name
   description: research-technology-mech-mining-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     state: clarke
   discipline: Robotics
   tier: 2
@@ -140,7 +140,7 @@
   name: research-technology-mech-combat-name
   description: research-technology-mech-combat-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha_equipment.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha_equipment.rsi
     state: mecha_disabler
   discipline: Robotics
   tier: 2
@@ -163,7 +163,7 @@
   name: research-technology-mech-assault-name
   description: research-technology-mech-assault-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     state: durand
   discipline: Robotics
   tier: 3
@@ -192,7 +192,7 @@
   name: research-technology-mech-light-name
   description: research-technology-mech-light-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     state: gygax
   discipline: Robotics
   tier: 3
@@ -260,7 +260,7 @@
   name: research-technology-mech-energy-guns-name
   description: research-technology-mech-energy-guns-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha_equipment.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha_equipment.rsi
     state: mecha_wholegen
   discipline: Robotics
   tier: 4
@@ -288,7 +288,7 @@
   name: research-technology-mech-firearms-name
   description: research-technology-mech-firearms-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha_equipment.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha_equipment.rsi
     state: mecha_scatter
   discipline: Robotics
   tier: 5
@@ -311,7 +311,7 @@
   name: research-technology-mech-heavy-arms-name
   description: research-technology-mech-heavy-arms-desc
   icon:
-    sprite: Objects/Specific/Mech/mecha_equipment.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha_equipment.rsi
     state: mecha_missilerack_six
   discipline: Robotics
   tier: 5

@@ -13,7 +13,7 @@
         path:
           "/Audio/Weapons/grille_hit.ogg"
   - type: Sprite
-    sprite: Structures/Walls/fence.rsi
+    sprite: _Amour/Structures/Walls/fence.rsi
     drawdepth: WallTops
   - type: Physics
     bodyType: Static
@@ -146,7 +146,7 @@
   suffix: Straight
   components:
   - type: Icon
-    sprite: Structures/Walls/fence.rsi
+    sprite: _Amour/Structures/Walls/fence.rsi
     state: icon_straight
   - type: Sprite
     layers:
@@ -241,7 +241,7 @@
   suffix: End
   components:
   - type: Icon
-    sprite: Structures/Walls/fence.rsi
+    sprite: _Amour/Structures/Walls/fence.rsi
     state: icon_end
   - type: Sprite
     layers:

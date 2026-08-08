@@ -39,7 +39,7 @@
   - type: Sprite
     layers:
     - state: red
-    - sprite: Objects/Specific/Hydroponics/banana.rsi
+    - sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
       state: peel
   - type: EntityTableSpawner
     table: !type:NestedSelector
@@ -52,7 +52,7 @@
   - type: Sprite
     layers:
       - state: red
-      - sprite: Objects/Specific/Janitorial/soap.rsi
+      - sprite: _Amour/Objects/Specific/Janitorial/soap.rsi
         state: soap-4
   - type: RandomSpawner
     prototypes:

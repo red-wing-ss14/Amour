@@ -103,7 +103,7 @@
 - type: cargoProduct
   id: ServiceFaxMachine
   icon:
-    sprite: Structures/Machines/fax_machine.rsi
+    sprite: _Amour/Structures/Machines/fax_machine.rsi
     state: icon
   product: CrateServiceFaxMachine
   cost: 2000
@@ -113,7 +113,7 @@
 - type: cargoProduct
   id: ServicePersonnel
   icon:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Amour/Objects/Misc/id_cards.rsi
     state: default
   product: CrateServicePersonnel
   cost: 1000
@@ -123,7 +123,7 @@
 - type: cargoProduct
   id: ServiceBooks
   icon:
-    sprite: Objects/Misc/books.rsi
+    sprite: _Amour/Objects/Misc/books.rsi
     state: book_icon
   product: CrateServiceBooks
   cost: 1000
@@ -133,7 +133,7 @@
 - type: cargoProduct
   id: ServiceGuidebooks
   icon:
-    sprite: Objects/Misc/books.rsi
+    sprite: _Amour/Objects/Misc/books.rsi
     state: book_icon
   product: CrateServiceGuidebooks
   cost: 1300
@@ -163,7 +163,7 @@
 - type: cargoProduct
   id: ServiceBoxes
   icon:
-    sprite: Objects/Storage/boxes.rsi
+    sprite: _Amour/Objects/Storage/boxes.rsi
     state: box
   product: CrateServiceBox
   cost: 400
@@ -183,7 +183,7 @@
 - type: cargoProduct
   id: ServiceFoodCartHot
   icon:
-    sprite: Objects/Specific/Kitchen/food_carts.rsi
+    sprite: _Amour/Objects/Specific/Kitchen/food_carts.rsi
     state: icon-hot
   product: FoodCartHot
   cost: 2000
@@ -193,7 +193,7 @@
 - type: cargoProduct
   id: ServiceFoodCartCold
   icon:
-    sprite: Objects/Specific/Kitchen/food_carts.rsi
+    sprite: _Amour/Objects/Specific/Kitchen/food_carts.rsi
     state: icon-cold
   product: FoodCartCold
   cost: 2000
@@ -203,7 +203,7 @@
 - type: cargoProduct
   id: ServiceAnimalCarrier
   icon:
-    sprite: Objects/Storage/petcarrier.rsi
+    sprite: _Amour/Objects/Storage/petcarrier.rsi
     state: icon
   product: PetCarrier
   cost: 500
@@ -223,7 +223,7 @@
 - type: cargoProduct
   id: ServiceJanitorTrolley
   icon:
-    sprite: Objects/Specific/Janitorial/janitorial_cart.rsi
+    sprite: _Amour/Objects/Specific/Janitorial/janitorial_cart.rsi
     state: icon-cart
   product: JanitorialTrolley
   cost: 300
@@ -233,7 +233,7 @@
 - type: cargoProduct
   id: ServiceCandles
   icon:
-    sprite: Objects/Misc/candles.rsi
+    sprite: _Amour/Objects/Misc/candles.rsi
     state: candle-big
   product: CrateCandles
   cost: 500

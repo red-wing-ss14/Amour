@@ -13,7 +13,7 @@
   - type: Rotatable
   - type: InteractionOutline
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/metal_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/metal_door.rsi
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]
@@ -89,7 +89,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/wood_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/wood_door.rsi
   - type: Door
     openSound:
       path: /Audio/Effects/door_open.ogg
@@ -116,7 +116,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/paper_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/paper_door.rsi
   - type: Destructible
     thresholds:
     - trigger:
@@ -146,7 +146,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/plasma_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/plasma_door.rsi
   - type: Damageable
     damageContainer: StructuralInorganic
     damageModifierSet: StructuralMetallicStrong
@@ -168,7 +168,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/gold_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/gold_door.rsi
   - type: Construction
     graph: DoorGraph
     node: goldDoor
@@ -179,7 +179,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/silver_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/silver_door.rsi
   - type: Construction
     graph: DoorGraph
     node: silverDoor
@@ -190,7 +190,7 @@
   parent: BaseMaterialDoorNavMap
   components:
   - type: Sprite
-    sprite: Structures/Doors/MineralDoors/bananium_door.rsi
+    sprite: _Amour/Structures/Doors/MineralDoors/bananium_door.rsi
   - type: Construction
     graph: DoorGraph
     node: bananiumDoor
@@ -215,7 +215,7 @@
   description: A door, leading to the lands of the spiders... or a spaced room.
   components:
   - type: Sprite
-    sprite: Structures/Doors/web_door.rsi
+    sprite: _Amour/Structures/Doors/web_door.rsi
   - type: Construction
     graph: WebStructures
     node: door

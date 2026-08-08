@@ -118,7 +118,7 @@
       - machinePart: Servo
         name: construction-graph-tag-servo
         icon:
-          sprite: "Objects/Misc/stock_parts.rsi"
+          sprite: "_Amour/Objects/Misc/stock_parts.rsi"
           state: "micro_mani"
         doAfter: 3
       # RW-End

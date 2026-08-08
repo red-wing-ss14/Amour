@@ -10,7 +10,7 @@
       steps:
       - tag: HappyHonk
         icon:
-          sprite: Objects/Storage/Happyhonk/clown.rsi
+          sprite: _Amour/Objects/Storage/Happyhonk/clown.rsi
           state: box
         name: construction-graph-tag-happy-honk-meal
       - tag: BikeHorn
@@ -21,7 +21,7 @@
         doAfter: 2
       - tag: ProximitySensor
         icon:
-          sprite: Objects/Misc/proximity_sensor.rsi
+          sprite: _Amour/Objects/Misc/proximity_sensor.rsi
           state: icon
         name: construction-graph-tag-proximity-sensor
       - tag: BorgArm
@@ -43,7 +43,7 @@
       steps:
       - tag: CluwneHappyHonk
         icon:
-          sprite: Objects/Storage/Happyhonk/cluwne.rsi
+          sprite: _Amour/Objects/Storage/Happyhonk/cluwne.rsi
           state: box
         name: construction-graph-tag-woeful-cluwne-meal
       - tag: CluwneHorn
@@ -54,7 +54,7 @@
         doAfter: 2
       - tag: ProximitySensor
         icon:
-          sprite: Objects/Misc/proximity_sensor.rsi
+          sprite: _Amour/Objects/Misc/proximity_sensor.rsi
           state: icon
         name: construction-graph-tag-proximity-sensor
       - tag: BorgArm

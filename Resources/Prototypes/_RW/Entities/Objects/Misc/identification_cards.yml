@@ -5,9 +5,9 @@
   components:
   - type: Sprite
     layers:
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: brown
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: sword
   - type: PresetIdCard
     job: InteQVanguardLeader
@@ -24,9 +24,9 @@
   components:
   - type: Sprite
     layers:
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: brown
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: sword
   - type: PresetIdCard
     job: InteQVanguard
@@ -76,7 +76,7 @@
   - type: Sprite
     layers:
     - state: default
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: bitrunner
   - type: PresetIdCard
     job: Bitrunner
@@ -89,7 +89,7 @@
   - type: Sprite
     layers:
     - state: default
-    - sprite: _RW/Objects/Misc/id_cards.rsi
+    - sprite: _Amour/Objects/Misc/id_cards.rsi
       state: bitrun-avatar
   - type: PresetIdCard
     job: BitrunAvatar

@@ -965,7 +965,7 @@
     flavors:
       - chocolate
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/cocoa.rsi
+    sprite: _Amour/Objects/Specific/Hydroponics/cocoa.rsi
     state: produce-beans
   - type: SolutionContainerManager
     solutions:

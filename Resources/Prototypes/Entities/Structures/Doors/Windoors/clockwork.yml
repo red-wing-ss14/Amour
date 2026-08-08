@@ -7,7 +7,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Structures/Doors/Windoors/clockwork_windoor.rsi
+    sprite: _Amour/Structures/Doors/Windoors/clockwork_windoor.rsi
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]

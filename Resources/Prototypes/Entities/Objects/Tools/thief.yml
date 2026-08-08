@@ -48,7 +48,7 @@
   parent: [ BaseItem, BaseSetSelector, BaseMinorContraband ] # Goobstation edit
   components:
     - type: Sprite
-      sprite: Objects/Tools/Toolboxes/toolbox_thief.rsi
+      sprite: _Amour/Objects/Tools/Toolboxes/toolbox_thief.rsi
       state: icon
     # Goobstation - SetSelector rework - start
     #  - type: ThiefUndeterminedBackpack

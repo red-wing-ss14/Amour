@@ -3,7 +3,7 @@
 - type: cargoProduct
   id: ArmorySmg
   icon:
-    sprite: Objects/Weapons/Guns/SMGs/wt550.rsi
+    sprite: _Amour/Objects/Weapons/Guns/SMGs/wt550.rsi
     state: icon
   product: CrateArmorySMG
   cost: 10000 # RW edit - 3000 > 10000
@@ -13,7 +13,7 @@
 - type: cargoProduct
   id: ArmoryShotgun
   icon:
-    sprite: Objects/Weapons/Guns/Shotguns/enforcer.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Shotguns/enforcer.rsi
     state: icon
   product: CrateArmoryShotgun
   cost: 6000 # Goobstation # 3k per gun + 1.5 shell boxes
@@ -33,7 +33,7 @@
 - type: cargoProduct
   id: TrackingImplant
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   product: CrateTrackingImplants
   cost: 1000
@@ -63,7 +63,7 @@
 - type: cargoProduct
   id: ArmoryPistol
   icon:
-    sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Pistols/mk58.rsi
     state: icon
   product: CrateArmoryPistols
   cost: 7000 # RW edit - 3200 > 7000

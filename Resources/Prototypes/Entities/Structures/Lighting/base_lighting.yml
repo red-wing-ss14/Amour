@@ -23,7 +23,7 @@
     graph: LightFixture
     node: tubeLight
   - type: Sprite
-    sprite: Structures/Wallmounts/Lighting/light_tube.rsi
+    sprite: _Amour/Structures/Wallmounts/Lighting/light_tube.rsi
     drawdepth: WallMountedItems
     layers:
     - map: ["enum.PoweredLightLayers.Base"]
@@ -105,7 +105,7 @@
   parent: AlwaysPoweredWallLight
   components:
   - type: Sprite
-    sprite: Structures/Wallmounts/Lighting/light_tube.rsi
+    sprite: _Amour/Structures/Wallmounts/Lighting/light_tube.rsi
     state: empty
   - type: PointLight
     enabled: false

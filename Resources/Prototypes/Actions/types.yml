@@ -84,8 +84,8 @@
   components:
   - type: Action
     useDelay: 1
-    icon: { sprite: Objects/Tools/flashlight.rsi, state: flashlight }
-    iconOn: { sprite: Objects/Tools/flashlight.rsi, state: flashlight-on }
+    icon: { sprite: _Amour/Objects/Tools/flashlight.rsi, state: flashlight }
+    iconOn: { sprite: _Amour/Objects/Tools/flashlight.rsi, state: flashlight-on }
 
 - type: entity
   parent: BaseAction
@@ -207,7 +207,7 @@
     itemIconStyle: BigAction
     priority: -20
     icon:
-      sprite: Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
+      sprite: _Amour/Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
       state: icon
 
 - type: entity
@@ -295,7 +295,7 @@
   - type: Action
     clientExclusive: true
     temporary: true
-    icon: { sprite: Objects/Tools/multitool.rsi, state: icon }
+    icon: { sprite: _Amour/Objects/Tools/multitool.rsi, state: icon }
   - type: InstantAction
     event: !type:ClearAllOverlaysEvent
 

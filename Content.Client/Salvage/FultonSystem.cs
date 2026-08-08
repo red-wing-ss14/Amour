@@ -83,7 +83,7 @@ public sealed class FultonSystem : SharedFultonSystem
         }
 
         sprite.NoRotation = true;
-        var effectLayer = _sprite.AddLayer((animationEnt, sprite), new SpriteSpecifier.Rsi(new ResPath("Objects/Tools/fulton_balloon.rsi"), "fulton_balloon"));
+        var effectLayer = _sprite.AddLayer((animationEnt, sprite), new SpriteSpecifier.Rsi(new ResPath("_Amour/Objects/Tools/fulton_balloon.rsi"), "fulton_balloon"));
         _sprite.LayerSetOffset((animationEnt, sprite), effectLayer, EffectOffset + new Vector2(0f, 0.5f));
 
         var despawn = AddComp<TimedDespawnComponent>(animationEnt);

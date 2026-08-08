@@ -97,7 +97,7 @@
   description: 'A piece of white paper.'
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Amour/Objects/Misc/bureaucracy.rsi
     layers:
     - state: paper
     - state: paper_words
@@ -141,7 +141,7 @@
     - Trash
     - Paper
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Amour/Objects/Misc/bureaucracy.rsi
     layers:
     - state: scrap
 
@@ -259,7 +259,7 @@
     price: 0
   - type: NanoTaskPrinted
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Amour/Objects/Misc/bureaucracy.rsi
     layers:
     - state: paper_receipt
     - state: paper_receipt_words
@@ -435,7 +435,7 @@
   description: 'A small envelope for keeping prying eyes off of your sensitive documents.'
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Amour/Objects/Misc/bureaucracy.rsi
     layers:
     - state: envelope_open
       map: ["enum.EnvelopeVisualLayers.Open"]

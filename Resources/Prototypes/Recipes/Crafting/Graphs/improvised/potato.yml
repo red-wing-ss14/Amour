@@ -11,7 +11,7 @@
             - tag: Potato
               name: construction-graph-tag-potato
               icon:
-                sprite: Objects/Specific/Hydroponics/potato.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/potato.rsi
                 state: produce
               doAfter: 1
             - material: MetalRod
@@ -40,7 +40,7 @@
             - tag: SmallAIChip
               name: construction-graph-tag-super-compact-ai-chip
               icon:
-                sprite: Objects/Misc/potatoai_chip.rsi
+                sprite: _Amour/Objects/Misc/potatoai_chip.rsi
                 state: icon
     - node: potatoai
       entity: PotatoAI
@@ -66,13 +66,13 @@
             - machinePart: Servo
               name: construction-graph-tag-servo
               icon:
-                sprite: "Objects/Misc/stock_parts.rsi"
+                sprite: "_Amour/Objects/Misc/stock_parts.rsi"
                 state: "micro_mani"
               doAfter: 1
             - machinePart: Servo
               name: construction-graph-tag-servo
               icon:
-                sprite: "Objects/Misc/stock_parts.rsi"
+                sprite: "_Amour/Objects/Misc/stock_parts.rsi"
                 state: "micro_mani"
               doAfter: 1
             # RW-End

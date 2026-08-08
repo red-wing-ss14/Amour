@@ -7,7 +7,7 @@
   name: selectable-set-thief-anatomy-name
   description: selectable-set-thief-anatomy-description
   sprite:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   content:
   - StorageImplanter
@@ -23,7 +23,7 @@
   name: selectable-set-thief-breacher-name
   description: selectable-set-thief-breacher-description
   sprite:
-    sprite: Objects/Tools/jaws_of_life.rsi
+    sprite: _Amour/Objects/Tools/jaws_of_life.rsi
     state: jaws_pry
   content:
   - WelderIndustrialAdvanced
@@ -53,7 +53,7 @@
   name: selectable-set-thief-syndie-name
   description: selectable-set-thief-syndie-description
   sprite:
-    sprite: Objects/Specific/Syndicate/telecrystal.rsi
+    sprite: _Amour/Objects/Specific/Syndicate/telecrystal.rsi
     state: telecrystal
   content:
   - RadioJammer
@@ -69,7 +69,7 @@
   name: selectable-set-thief-sleeper-name
   description: selectable-set-thief-sleeper-description
   sprite:
-    sprite: Objects/Tanks/anesthetic.rsi
+    sprite: _Amour/Objects/Tanks/anesthetic.rsi
     state: icon
   content:
   - ChemistryBottleNocturine
@@ -82,7 +82,7 @@
   name: selectable-set-thief-communicator-name
   description: selectable-set-thief-communicator-description
   sprite:
-    sprite: Objects/Tools/spy_device.rsi
+    sprite: _Amour/Objects/Tools/spy_device.rsi
     state: icon
   content:
   - EncryptionKeyStationMaster
@@ -131,7 +131,7 @@
   name: selectable-set-syndicate-hitman-name
   description: selectable-set-syndicate-hitman-description
   sprite:
-    sprite: Objects/Weapons/Guns/Pistols/cobra.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Pistols/cobra.rsi
     state: icon
   content:
   - EncryptionKeySyndie
@@ -172,7 +172,7 @@
   name: selectable-set-syndicate-hacker-name
   description: selectable-set-syndicate-hacker-description
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: std_mod
   content:
   - EncryptionKeySyndie
@@ -218,7 +218,7 @@
   name: selectable-set-syndicate-fluclear-name
   description: selectable-set-syndicate-fluclear-description
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/syndicate.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/syndicate.rsi
     state: icon
   content:
   - ClothingHeadsetAltSyndicate
@@ -505,7 +505,7 @@
   name: selectable-set-headofsecurity-voidsuit-name
   description: selectable-set-headofsecurity-voidsuit-desc
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/security-red.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/security-red.rsi
     state: icon
   content:
   - ClothingOuterHardsuitSecurityRed
@@ -527,7 +527,7 @@
   name: selectable-set-engineering-voidsuit-name
   description: selectable-set-engineering-voidsuit-desc
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/engineering.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/engineering.rsi
     state: icon
   content:
   - ClothingOuterHardsuitEngineering
@@ -591,7 +591,7 @@
   name: selectable-set-captain-voidsuit-name
   description: selectable-set-captain-voidsuit-desc
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/capspace.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/capspace.rsi
     state: icon
   content:
   - ClothingOuterHardsuitCap
@@ -613,7 +613,7 @@
   name: selectable-set-research-director-voidsuit-name
   description: selectable-set-research-director-voidsuit-desc
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/rd.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/rd.rsi
     state: icon
   content:
   - ClothingOuterHardsuitRd

@@ -3,7 +3,7 @@
   name: research-technology-office-equipment-name
   description: research-technology-office-equipment-desc
   icon:
-    sprite: Objects/Specific/Janitorial/mop.rsi
+    sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
     state: mop
   discipline: Service
   tier: 1
@@ -66,7 +66,7 @@
   name: research-technology-sanitation-name
   description: research-technology-sanitation-desc
   icon:
-    sprite: Objects/Specific/Janitorial/advmop.rsi
+    sprite: _Amour/Objects/Specific/Janitorial/advmop.rsi
     state: advmop
   discipline: Service
   tier: 2
@@ -95,7 +95,7 @@
   name: research-technology-consoles-name
   description: research-technology-consoles-desc
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: charger_APC
   discipline: Service
   tier: 1
@@ -181,7 +181,7 @@
   name: research-technology-food-processing-name
   description: research-technology-food-processing-desc
   icon:
-    sprite: Structures/Machines/grinder.rsi
+    sprite: _Amour/Structures/Machines/grinder.rsi
     state: grinder_empty
   discipline: Service
   tier: 2

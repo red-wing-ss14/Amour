@@ -128,7 +128,7 @@
   id: UplinkThrowingKnivesKit
   name: uplink-knives-kit-name
   description: uplink-knives-kit-desc
-  icon: { sprite: /Textures/Objects/Storage/boxicons.rsi, state: throwing_knives }
+  icon: { sprite: /Textures/_Amour/Objects/Storage/boxicons.rsi, state: throwing_knives }
   productEntity: ThrowingKnivesKit
   cost:
     Telecrystal: 20 # goob - Pretty weak, but resusable ranged crit potential shouldn't be less.
@@ -225,7 +225,7 @@
   id: UplinkC20R #goob
   name: uplink-c20r-name #goob
   description: uplink-c20r-desc #goob
-  icon: { sprite: /Textures/Objects/Weapons/Guns/SMGs/c20r.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Objects/Weapons/Guns/SMGs/c20r.rsi, state: icon }
   productEntity: WeaponSubMachineGunC20r #Goob unbundle update
   cost:
     Telecrystal: 45 # goob unbunde update # RW-Edit: 50 > 45
@@ -260,7 +260,7 @@
 #  id: UplinkBulldog #goob
 #  name: uplink-buldog-name #goob
 #  description: uplink-buldog-desc #goob
-#  icon: { sprite: /Textures/Objects/Weapons/Guns/Shotguns/bulldog.rsi, state: icon }
+#  icon: { sprite: /Textures/_Amour/Objects/Weapons/Guns/Shotguns/bulldog.rsi, state: icon }
 #  productEntity: WeaponShotgunBulldog
 #  cost:
 #    Telecrystal: 60 # goob
@@ -295,7 +295,7 @@
   id: UplinkL6Saw #goob
   name: uplink-l6-saw-name #goob
   description: uplink-l6-saw-desc #goob
-  icon: { sprite: /Textures/Objects/Weapons/Guns/LMGs/l6.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Objects/Weapons/Guns/LMGs/l6.rsi, state: icon }
   productEntity: WeaponLightMachineGunL6
   cost:
     Telecrystal: 100 # goob
@@ -770,7 +770,7 @@
   id: UplinkChemistryKitBundle
   name: uplink-chemistry-kit-name
   description: uplink-chemistry-kit-desc
-  icon: { sprite: /Textures/Objects/Storage/boxicons.rsi, state: vials }
+  icon: { sprite: /Textures/_Amour/Objects/Storage/boxicons.rsi, state: vials }
   productEntity: ChemicalSynthesisKit
   #discountCategory: usualDiscounts
   #discountDownTo:
@@ -792,7 +792,7 @@
 #  id: UplinkZombieBundle
 #  name: uplink-zombie-bundle-name
 #  description: uplink-zombie-bundle-desc
-#  icon: { sprite: /Textures/Structures/Wallmounts/signs.rsi, state: bio }
+#  icon: { sprite: /Textures/_Amour/Structures/Wallmounts/signs.rsi, state: bio }
 #  productEntity: ClothingBackpackDuffelZombieBundle
 #  cost:
 #    Telecrystal: 200 # goob
@@ -1045,7 +1045,7 @@
   id: UplinkDecoyKit
   name: uplink-decoy-kit-name
   description: uplink-decoy-kit-desc
-  icon: { sprite: /Textures/Objects/Tools/Decoys/operative_decoy.rsi, state: folded }
+  icon: { sprite: /Textures/_Amour/Objects/Tools/Decoys/operative_decoy.rsi, state: folded }
   productEntity: ClothingBackpackDuffelSyndicateDecoyKitFilled
   cost:
     Telecrystal: 15 # goob - total meme item. # RW-Edit 20 > 15
@@ -1143,7 +1143,7 @@
   name: uplink-syndicate-martyr-module-name
   description: uplink-syndicate-martyr-module-desc
   productEntity: BorgModuleMartyr
-  icon: { sprite: /Textures/Objects/Specific/Robotics/borgmodule.rsi, state: syndicateborgbomb }
+  icon: { sprite: /Textures/_Amour/Objects/Specific/Robotics/borgmodule.rsi, state: syndicateborgbomb }
   cost:
     Telecrystal: 11 # goob # RW-Edit: 20 > 11
   categories:
@@ -1362,7 +1362,7 @@
   id: UplinkHoloparaKit
   name: uplink-holopara-kit-name
   description: uplink-holopara-kit-desc
-  icon: { sprite: /Textures/Objects/Misc/guardian_info.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Objects/Misc/guardian_info.rsi, state: icon }
   productEntity: BoxHoloparasite
   cost:
     Telecrystal: 60 # goob
@@ -1584,7 +1584,7 @@
   id: UplinkDnaScramblerImplant
   name: uplink-dna-scrambler-implanter-name
   description: uplink-dna-scrambler-implanter-desc
-  icon: { sprite: /Textures/Mobs/Species/Human/parts.rsi, state: full }
+  icon: { sprite: /Textures/_Amour/Mobs/Species/Human/parts.rsi, state: full }
   productEntity: DnaScramblerImplanter
   cost:
     Telecrystal: 13 # goob # RW-Edit: 25 > 13
@@ -1920,7 +1920,7 @@
   id: UplinkHardsuitSyndie
   name: uplink-hardsuit-syndie-name
   description: uplink-hardsuit-syndie-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndicate.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Clothing/OuterClothing/Hardsuits/syndicate.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateHardsuitBundle
   cost:
     Telecrystal: 50 # goob
@@ -1955,7 +1955,7 @@
   id: UplinkHardsuitSyndieElite
   name: uplink-hardsuit-syndieelite-name
   description: uplink-hardsuit-syndieelite-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/syndieelite.rsi, state: icon }
+  icon: { sprite: /Textures/_Amour/Clothing/OuterClothing/Hardsuits/syndieelite.rsi, state: icon }
   productEntity: ClothingBackpackDuffelSyndicateEliteHardsuitBundle
   cost:
     Telecrystal: 75 # goob
@@ -1978,7 +1978,7 @@
   id: UplinkClothingOuterHardsuitJuggernaut
   name: uplink-clothing-outer-hardsuit-juggernaut-name
   description: uplink-clothing-outer-hardsuit-juggernaut-desc
-  icon: { sprite: /Textures/Clothing/OuterClothing/Hardsuits/cybersun.rsi, state: icon } # goobstation - duke nukies
+  icon: { sprite: /Textures/_Amour/Clothing/OuterClothing/Hardsuits/cybersun.rsi, state: icon } # goobstation - duke nukies
   productEntity: CrateCybersunJuggernautBundle
   cost:
     Telecrystal: 75 # goob
@@ -2288,7 +2288,7 @@
   id: uplinkBananaPeelExplosive
   name: uplink-banana-peel-explosive-name
   description: uplink-banana-peel-explosive-desc
-  icon: { sprite: Objects/Specific/Hydroponics/banana.rsi, state: peel }
+  icon: { sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi, state: peel }
   productEntity: TrashBananaPeelExplosiveUnarmed
   cost:
     Telecrystal: 8 # goob
@@ -2387,7 +2387,7 @@
   id: UplinkSyndicateSpongeBox
   name: uplink-syndicate-sponge-box-name
   description: uplink-syndicate-sponge-box-desc
-  icon: { sprite:  Objects/Misc/monkeycube.rsi, state: box}
+  icon: { sprite:  _Amour/Objects/Misc/monkeycube.rsi, state: box}
   productEntity: SyndicateSpongeBox
   cost:
     Telecrystal: 35 # goob
@@ -2477,7 +2477,7 @@
   id: UplinkSawAdvanced
   name: uplink-saw-advanced-name
   description: uplink-saw-advanced-desc
-  icon: { sprite:  Objects/Specific/Medical/Surgery/saw.rsi, state: advanced}
+  icon: { sprite:  _Amour/Objects/Specific/Medical/Surgery/saw.rsi, state: advanced}
   productEntity: SawAdvanced
   #discountCategory: rareDiscounts
   #discountDownTo:

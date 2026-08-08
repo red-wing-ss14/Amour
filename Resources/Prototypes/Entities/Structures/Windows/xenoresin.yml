@@ -41,4 +41,4 @@
     damageDivisor: 4
     trackAllDamage: true
     damageOverlay:
-      sprite: Structures/Windows/cracks.rsi
+      sprite: _Amour/Structures/Windows/cracks.rsi

@@ -33,7 +33,7 @@
           steps:
           - tag: Head
             icon:
-              sprite: Mobs/Species/Human/parts.rsi
+              sprite: _Amour/Mobs/Species/Human/parts.rsi
               state: "head_m"
             name: construction-graph-tag-human-head
             doAfter: 1

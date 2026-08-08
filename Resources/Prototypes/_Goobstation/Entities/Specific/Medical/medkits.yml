@@ -7,7 +7,7 @@
   description: A single-use advanced medipen containing chemicals extracted from eldritch beasts. # ethically sourced space dragon blood
   components:
   - type: Sprite
-    sprite: Objects/Specific/Medical/medipen.rsi
+    sprite: _Amour/Objects/Specific/Medical/medipen.rsi
     layers:
     - state: advcombatpen
       map: ["enum.SolutionContainerLayers.Fill"]

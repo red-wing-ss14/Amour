@@ -5,7 +5,7 @@
   description: Standard rules of the game EvacPod.
   components:
     - type: Sprite
-      sprite: _RW/Objects/Misc/books.rsi
+      sprite: _Amour/Objects/Misc/books.rsi
       layers:
         - state: book_EvacPod_StandartRules
     - type: Paper

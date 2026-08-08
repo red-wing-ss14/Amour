@@ -40,7 +40,7 @@
       steps:
       - tag: Multitool
         icon:
-          sprite: Objects/Tools/multitool.rsi
+          sprite: _Amour/Objects/Tools/multitool.rsi
           state: icon
         name: construction-graph-tag-multitool
       - material: Cable
@@ -52,13 +52,13 @@
       - machinePart: Servo
         name: construction-graph-tag-servo
         icon:
-          sprite: "Objects/Misc/stock_parts.rsi"
+          sprite: "_Amour/Objects/Misc/stock_parts.rsi"
           state: "micro_mani"
         doAfter: 1
       - machinePart: Servo
         name: construction-graph-tag-servo
         icon:
-          sprite: "Objects/Misc/stock_parts.rsi"
+          sprite: "_Amour/Objects/Misc/stock_parts.rsi"
           state: "micro_mani"
         doAfter: 1
       # RW-End

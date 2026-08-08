@@ -2,7 +2,7 @@
   id: UplinkBookCodespeakLanguage
   name: uplink-book-codespeak-language-name
   description: uplink-book-codespeak-language-desc
-  icon: { sprite: /Textures/_RW/Objects/Misc/books.rsi, state: syndicate }
+  icon: { sprite: /Textures/_Amour/Objects/Misc/books.rsi, state: syndicate }
   productEntity: ManualCodespeak
   cost:
     Telecrystal: 2

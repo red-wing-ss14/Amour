@@ -3,7 +3,7 @@
 - type: cargoProduct
   id: SecurityArmor
   icon:
-    sprite: Clothing/OuterClothing/Armor/bulletproof.rsi
+    sprite: _Amour/Clothing/OuterClothing/Armor/bulletproof.rsi
     state: icon
   product: CrateSecurityArmor
   cost: 4000 # RW edit - 1000 > 4000
@@ -33,7 +33,7 @@
 - type: cargoProduct
   id: SecuritySupplies
   icon:
-    sprite: Objects/Storage/boxes.rsi
+    sprite: _Amour/Objects/Storage/boxes.rsi
     state: box_security
   product: CrateSecuritySupplies
   cost: 500
@@ -43,7 +43,7 @@
 - type: cargoProduct
   id: SecurityRestraints
   icon:
-    sprite: Objects/Misc/handcuffs.rsi
+    sprite: _Amour/Objects/Misc/handcuffs.rsi
     state: handcuff
   product: CrateRestraints
   cost: 1000
@@ -63,7 +63,7 @@
 - type: cargoProduct
   id: SecurityBarrier
   icon:
-    sprite: Objects/Specific/Security/barrier.rsi
+    sprite: _Amour/Objects/Specific/Security/barrier.rsi
     state: idle
   product: DeployableBarrier
   cost: 1000
@@ -83,7 +83,7 @@
 - type: cargoProduct
   id: SecurityGenPopCloset
   icon:
-    sprite: Structures/Storage/closet.rsi
+    sprite: _Amour/Structures/Storage/closet.rsi
     state: genpop
   product: LockerPrisoner
   cost: 250

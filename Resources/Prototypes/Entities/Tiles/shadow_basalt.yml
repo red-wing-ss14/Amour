@@ -9,7 +9,7 @@
   components:
     - type: Clickable
     - type: Sprite
-      sprite: /Textures/Tiles/Planet/shadowbasalt.rsi
+      sprite: /Textures/_Amour/Tiles/Planet/shadowbasalt.rsi
       layers:
         - state: basalt1
           shader: unshaded

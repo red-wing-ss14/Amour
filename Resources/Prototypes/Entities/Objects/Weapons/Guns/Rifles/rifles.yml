@@ -13,7 +13,7 @@
     shape:
     - 0,0,3,2
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Rifles/ak.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Rifles/ak.rsi
     quickEquip: false
     slots:
     - Back
@@ -163,14 +163,14 @@
   description: A bullpup Waffle Corporation assault rifle with an integrated grenade launcher. Feeds from 5.56mm rifle magazines. # Goobstation | Orion-Edit: .20 > 5.56mm
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Rifles/carbine.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Rifles/carbine.rsi
     layers:
       - state: base
         map: ["enum.GunVisualLayers.Base"]
       - state: mag-0
         map: ["enum.GunVisualLayers.Mag"]
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Rifles/carbine.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Rifles/carbine.rsi
   - type: ItemSlots
     slots:
       gun_magazine:

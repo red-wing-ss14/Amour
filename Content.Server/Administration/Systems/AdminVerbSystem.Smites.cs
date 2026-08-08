@@ -624,7 +624,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = killSignName,
                 Category = VerbCategory.Smite,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/killsign.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/killsign.rsi"), "icon"),
                 Act = () =>
                 {
                     EnsureComp<KillSignComponent>(args.Target, out var comp);
@@ -641,7 +641,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = hiddenKillSignName,
                 Category = VerbCategory.Smite,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/killsign.rsi"), "icon-hidden"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/killsign.rsi"), "icon-hidden"),
                 Act = () =>
                 {
                     EnsureComp<KillSignComponent>(args.Target, out var comp);
@@ -796,7 +796,7 @@ public sealed partial class AdminVerbSystem
         {
             Text = lockerName,
             Category = VerbCategory.Smite,
-            Icon = new SpriteSpecifier.Rsi(new("/Textures/Structures/Storage/closet.rsi"), "generic"),
+            Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Structures/Storage/closet.rsi"), "generic"),
             Act = () =>
             {
                 var xform = Transform(args.Target);
@@ -972,7 +972,7 @@ public sealed partial class AdminVerbSystem
         {
             Text = superslipName,
             Category = VerbCategory.Smite,
-            Icon = new SpriteSpecifier.Rsi(new("Objects/Specific/Janitorial/soap.rsi"), "omega-4"),
+            Icon = new SpriteSpecifier.Rsi(new("_Amour/Objects/Specific/Janitorial/soap.rsi"), "omega-4"),
             Act = () =>
             {
                 var hadSlipComponent = EnsureComp(args.Target, out SlipperyComponent slipComponent);
@@ -1080,7 +1080,7 @@ public sealed partial class AdminVerbSystem
         {
             Text = homingRodName,
             Category = VerbCategory.Smite,
-            Icon = new SpriteSpecifier.Rsi(new("Objects/Specific/Security/target.rsi"), "target_s"),
+            Icon = new SpriteSpecifier.Rsi(new("_Amour/Objects/Specific/Security/target.rsi"), "target_s"),
             Act = () =>
             {
                 var speed = 25f; // It don't miss brother.
@@ -1097,7 +1097,7 @@ public sealed partial class AdminVerbSystem
         {
             Text = homingRodSlowName,
             Category = VerbCategory.Smite,
-            Icon = new SpriteSpecifier.Rsi(new("Objects/Specific/Security/target.rsi"), "target_c"),
+            Icon = new SpriteSpecifier.Rsi(new("_Amour/Objects/Specific/Security/target.rsi"), "target_c"),
             Act = () =>
             {
                 var speed = 5f; // slightly faster than default sprint speed 4.5

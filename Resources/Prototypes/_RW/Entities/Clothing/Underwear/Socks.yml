@@ -23,7 +23,7 @@
   description: A pair of bee knee-highs, adding some buzz to your style.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/bee_knee.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/bee_knee.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -32,7 +32,7 @@
   description: A pair of bee themed socks, perfect for making a statement with your footwear.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/bee_norm.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/bee_norm.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -41,7 +41,7 @@
   description: A pair of bee thigh-highs, sure to draw attention with their unique design.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/bee_thigh.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/bee_thigh.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -149,7 +149,7 @@
   description: Stylish fishnet socks adding a touch of edginess to your outfit.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/fishnet.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/fishnet.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -167,7 +167,7 @@
   description: Elegant garter socks, combining style and sophistication.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/garter.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/garter.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -194,7 +194,7 @@
   description: Smooth pantyhose providing an elegant finish to any outfit.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/pantyhose.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/pantyhose.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -203,7 +203,7 @@
   description: Ripped pantyhose for a trendy and edgy fashion statement.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/pantyhose_ripped.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/pantyhose_ripped.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -212,7 +212,7 @@
   description: Simple knee socks for a classic and versatile style.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/socks_knee.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/socks_knee.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -230,7 +230,7 @@
   description: Basic regular socks for everyday comfort and style.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/socks_norm.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/socks_norm.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -239,7 +239,7 @@
   description: Comfortable short socks ideal for everyday wear and casual styles.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/socks_short.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/socks_short.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -248,7 +248,7 @@
   description: Classic thigh-high socks offering a sleek and versatile look.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/socks_thigh.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/socks_thigh.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -266,7 +266,7 @@
   description: Fresh green stockings bringing a natural vibe to your look.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/stockings_green.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/stockings_green.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -284,7 +284,7 @@
   description: Bright orange stockings making a bold and cheerful statement.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/stockings_orange.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/stockings_orange.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -293,7 +293,7 @@
   description: Rich purple stockings adding a touch of luxury to your style.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/stockings_purple.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/stockings_purple.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -302,7 +302,7 @@
   description: Cheerful yellow stockings brightening up any outfit.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/stockings_yellow.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/stockings_yellow.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -311,7 +311,7 @@
   description: Classic striped knee-highs for a retro-inspired look.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/striped_knee.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/striped_knee.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -320,7 +320,7 @@
   description: Bold striped thigh-highs making a strong fashion statement.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/striped_thigh.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/striped_thigh.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -329,7 +329,7 @@
   description: Delicate thin knee-highs offering a subtle and elegant touch.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/thin_knee.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/thin_knee.rsi
 
 - type: entity
   parent: ClothingSocksBase
@@ -338,7 +338,7 @@
   description: Delicate thin thigh-highs offering a subtle and elegant touch.
   components:
   - type: Sprite
-    sprite: _RW/Clothing/Underwear/Socks/thin_thigh.rsi
+    sprite: _Amour/Clothing/Underwear/Socks/thin_thigh.rsi
 
 - type: entity
   parent: ClothingSocksBase

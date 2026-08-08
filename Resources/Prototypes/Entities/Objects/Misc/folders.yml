@@ -291,7 +291,7 @@
   description: The weapon of choice for those on the front lines of bureaucracy.
   components:
   - type: Sprite
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Amour/Objects/Misc/clipboard.rsi
     layers:
     - state: clipboard
     - state: clipboard_paper
@@ -315,12 +315,12 @@
           - Write
         insertOnInteract: false
   - type: Item
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Amour/Objects/Misc/clipboard.rsi
     size: Small
   - type: Clothing
     slots: [belt]
     quickEquip: false
-    sprite: Objects/Misc/clipboard.rsi
+    sprite: _Amour/Objects/Misc/clipboard.rsi
   - type: PhysicalComposition
     materialComposition: # half of autolathe printing cost
       Wood: 50
@@ -398,7 +398,7 @@
   description: A luxurious clipboard upholstered with green velvet. Often seen carried by CentComm officials, seldom seen actually used.
   components:
   - type: Sprite
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Amour/Objects/Misc/cc-clipboard.rsi
     layers:
     - state: clipboard
     - state: clipboard_paper
@@ -409,9 +409,9 @@
       visible: false
     - state: clipboard_over
   - type: Item
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Amour/Objects/Misc/cc-clipboard.rsi
   - type: Clothing
-    sprite: Objects/Misc/cc-clipboard.rsi
+    sprite: _Amour/Objects/Misc/cc-clipboard.rsi
   - type: PhysicalComposition
     materialComposition: # same composition as regular clipboard + bit of cloth because it's "upholstered with green velvet"
       Wood: 50
@@ -433,7 +433,7 @@
   description: A bulky electric clipboard, filled with shipping orders and financing details. With so many compromising documents, you ought to keep this safe.
   components:
   - type: Sprite
-    sprite: Objects/Misc/qm_clipboard.rsi
+    sprite: _Amour/Objects/Misc/qm_clipboard.rsi
     layers:
     - state: qm_clipboard
     - state: qm_clipboard_paper
@@ -452,10 +452,10 @@
           - Write
         insertOnInteract: true
   - type: Item
-    sprite: Objects/Misc/qm_clipboard.rsi
+    sprite: _Amour/Objects/Misc/qm_clipboard.rsi
     size: Normal
   - type: Clothing
-    sprite: Objects/Misc/qm_clipboard.rsi
+    sprite: _Amour/Objects/Misc/qm_clipboard.rsi
   - type: Storage
     grid:
     - 0,0,4,3

@@ -83,7 +83,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Specific/Medical/Morgue/bodybags.rsi
+      sprite: _Amour/Objects/Specific/Medical/Morgue/bodybags.rsi
       state: bag
 
 - type: entity
@@ -94,7 +94,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Specific/Medical/Morgue/bodybags.rsi
+      sprite: _Amour/Objects/Specific/Medical/Morgue/bodybags.rsi
       state: bag
 
 - type: entity
@@ -116,7 +116,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Specific/Hydroponics/cannabis.rsi
+      sprite: _Amour/Objects/Specific/Hydroponics/cannabis.rsi
       state: produce
 
 - type: entity
@@ -204,7 +204,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Misc/books.rsi
+      sprite: _Amour/Objects/Misc/books.rsi
       state: book_icon
 
 - type: entity
@@ -237,7 +237,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Mobs/Species/Human/parts.rsi
+      sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
 
 - type: entity
@@ -305,7 +305,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Tools/rcd.rsi
+      sprite: _Amour/Objects/Tools/rcd.rsi
       state: icon
 
 - type: entity
@@ -371,7 +371,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Tools/scissors.rsi
+      sprite: _Amour/Objects/Tools/scissors.rsi
       state: icon
 
 # Harmful Objectives
@@ -384,7 +384,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Structures/Walls/solid.rsi
+      sprite: _Amour/Structures/Walls/solid.rsi
       state: rgeneric
 
 - type: entity
@@ -409,7 +409,7 @@
     - AtmosphericTechnician # It would be too free for atmos techs :) CE is fair game though.
   - type: Objective
     icon:
-      sprite: Objects/Tanks/oxygen.rsi
+      sprite: _Amour/Objects/Tanks/oxygen.rsi
       state: icon
 
 - type: entity
@@ -465,7 +465,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Specific/Medical/defib.rsi
+      sprite: _Amour/Objects/Specific/Medical/defib.rsi
       state: icon
 
 - type: entity

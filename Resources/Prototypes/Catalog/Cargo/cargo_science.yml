@@ -23,7 +23,7 @@
 - type: cargoProduct
   id: RandomArtifact
   icon:
-    sprite: Objects/Specific/Xenoarchaeology/xeno_artifacts.rsi
+    sprite: _Amour/Objects/Specific/Xenoarchaeology/xeno_artifacts.rsi
     state: ano13
   product: RandomArtifactSpawner
   cost: 2000

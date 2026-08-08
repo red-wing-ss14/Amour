@@ -229,9 +229,9 @@
   description: A head of security's luxury-wear, for special occasions.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirt/hos_parade.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/hos_parade.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirt/hos_parade.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/hos_parade.rsi
 
 - type: entity
   parent: [ClothingUniformSkirtBase, BaseCommandContraband]
@@ -314,9 +314,9 @@
   description: This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirt/brigmedic.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/brigmedic.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirt/brigmedic.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/brigmedic.rsi
 
 - type: entity
   parent: [ClothingUniformSkirtBase, ClothingUniformFoldableBase] # Goob
@@ -544,9 +544,9 @@
   description: A dress for special occasions.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpskirt/hosformaldress.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpskirt/hosformaldress.rsi
+    sprite: _Amour/Clothing/Uniforms/Jumpskirt/hosformaldress.rsi
 
 - type: entity
   parent: [UnsensoredClothingUniformSkirtBase,ClothingUniformFoldableBase, BaseSyndicateContraband] # Goob

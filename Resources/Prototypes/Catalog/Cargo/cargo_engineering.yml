@@ -3,7 +3,7 @@
 - type: cargoProduct
   id: EngineeringCableLv
   icon:
-    sprite: Objects/Tools/cable-coils.rsi
+    sprite: _Amour/Objects/Tools/cable-coils.rsi
     state: coillv-30
   product: CrateEngineeringCableLV
   cost: 300
@@ -13,7 +13,7 @@
 - type: cargoProduct
   id: EngineeringCableMv
   icon:
-    sprite: Objects/Tools/cable-coils.rsi
+    sprite: _Amour/Objects/Tools/cable-coils.rsi
     state: coilmv-30
   product: CrateEngineeringCableMV
   cost: 300
@@ -23,7 +23,7 @@
 - type: cargoProduct
   id: EngineeringCableHv
   icon:
-    sprite: Objects/Tools/cable-coils.rsi
+    sprite: _Amour/Objects/Tools/cable-coils.rsi
     state: coilhv-30
   product: CrateEngineeringCableHV
   cost: 300
@@ -43,7 +43,7 @@
 - type: cargoProduct
   id: EngineeringCableBulk
   icon:
-    sprite: Objects/Tools/cable-coils.rsi
+    sprite: _Amour/Objects/Tools/cable-coils.rsi
     state: coilall-30
   product: CrateEngineeringCableBulk
   cost: 600
@@ -53,7 +53,7 @@
 - type: cargoProduct
   id: EngineeringElectricalSupplies
   icon:
-    sprite: Objects/Tools/Toolboxes/toolbox_yellow.rsi
+    sprite: _Amour/Objects/Tools/Toolboxes/toolbox_yellow.rsi
     state: icon
   product: CrateEngineeringElectricalSupplies
   cost: 4500
@@ -73,7 +73,7 @@
 - type: cargoProduct
   id: EngineeringJetpack
   icon:
-    sprite: Objects/Tanks/Jetpacks/blue.rsi
+    sprite: _Amour/Objects/Tanks/Jetpacks/blue.rsi
     state: icon
   product: CrateEngineeringJetpack
   cost: 1000
@@ -83,7 +83,7 @@
 - type: cargoProduct
   id: EngineeringMiniJetpack
   icon:
-    sprite: Objects/Tanks/Jetpacks/mini.rsi
+    sprite: _Amour/Objects/Tanks/Jetpacks/mini.rsi
     state: icon
   product: CrateEngineeringMiniJetpack
   cost: 750
@@ -93,7 +93,7 @@
 - type: cargoProduct
   id: AirlockKit
   icon:
-    sprite: Objects/Tools/Toolboxes/toolbox_yellow.rsi
+    sprite: _Amour/Objects/Tools/Toolboxes/toolbox_yellow.rsi
     state: icon
   product: CrateAirlockKit
   cost: 1200 # Goob
@@ -113,7 +113,7 @@
 - type: cargoProduct
   id: EngineeringRCDAmmo
   icon:
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Amour/Objects/Tools/rcd.rsi
     state: ammo
   product: CrateRCDAmmo
   cost: 2500
@@ -123,7 +123,7 @@
 - type: cargoProduct
   id: EngineeringRCD
   icon:
-    sprite: Objects/Tools/rcd.rsi
+    sprite: _Amour/Objects/Tools/rcd.rsi
     state: icon
   product: CrateRCD
   cost: 800

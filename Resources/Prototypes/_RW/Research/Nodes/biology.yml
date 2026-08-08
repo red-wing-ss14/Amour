@@ -3,7 +3,7 @@
   name: research-technology-biological-scan-name
   description: research-technology-biological-scan-desc
   icon:
-    sprite: Objects/Specific/Medical/healthanalyzer.rsi
+    sprite: _Amour/Objects/Specific/Medical/healthanalyzer.rsi
     state: icon
   discipline: Medical
   tier: 1
@@ -123,7 +123,7 @@
   name: research-technology-botany-equipment-name
   description: research-technology-botany-equipment-desc
   icon:
-    sprite: Objects/Tools/Hydroponics/spade.rsi
+    sprite: _Amour/Objects/Tools/Hydroponics/spade.rsi
     state: icon
   discipline: Service
   tier: 1

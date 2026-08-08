@@ -298,7 +298,7 @@
   components:
   - type: Action
     icon: Interface/Default/blocked.png
-    iconOn: { sprite: Objects/Tools/Toolboxes/toolbox_blue.rsi, state: icon }
+    iconOn: { sprite: _Amour/Objects/Tools/Toolboxes/toolbox_blue.rsi, state: icon }
   - type: InstantAction
     event: !type:ToggleActionEvent
 

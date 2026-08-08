@@ -8,7 +8,7 @@
   abstract: true
   components:
     - type: Sprite
-      sprite: Objects/Specific/Medical/defib.rsi
+      sprite: _Amour/Objects/Specific/Medical/defib.rsi
       layers:
         - state: icon
         - state: screen

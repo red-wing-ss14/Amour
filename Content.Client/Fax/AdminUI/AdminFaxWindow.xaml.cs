@@ -13,7 +13,7 @@ namespace Content.Client.Fax.AdminUI;
 [GenerateTypedNameReferences]
 public sealed partial class AdminFaxWindow : DefaultWindow
 {
-    private const string StampsRsiPath = "/Textures/Objects/Misc/bureaucracy.rsi";
+    private const string StampsRsiPath = "/Textures/_Amour/Objects/Misc/bureaucracy.rsi";
 
     public Action<(NetEntity entity, string title, string stampedBy, string message, string stampSprite, Color stampColor, bool locked)>? OnMessageSend;
     public Action<NetEntity>? OnFollowFax;

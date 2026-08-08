@@ -6,21 +6,21 @@
   id: DummyMix
   verbText: mixing-verb-default-mix
   icon:
-    sprite: Objects/Specific/Chemistry/beaker_large.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/beaker_large.rsi
     state: beakerlarge
 
 - type: mixingCategory
   id: DummyGrind
   verbText: mixing-verb-default-grind
   icon:
-    sprite: Structures/Machines/grinder.rsi
+    sprite: _Amour/Structures/Machines/grinder.rsi
     state: grinder_empty
 
 - type: mixingCategory
   id: DummyJuice
   verbText: mixing-verb-default-juice
   icon:
-    sprite: Structures/Machines/grinder.rsi
+    sprite: _Amour/Structures/Machines/grinder.rsi
     state: grinder_empty
 
 - type: mixingCategory
@@ -50,7 +50,7 @@
   id: Holy
   verbText: mixing-verb-holy
   icon:
-    sprite: Objects/Specific/Chapel/bible.rsi
+    sprite: _Amour/Objects/Specific/Chapel/bible.rsi
     state: icon
 
 - type: mixingCategory
@@ -64,5 +64,5 @@
   id: Stir
   verbText: mixing-verb-stir
   icon:
-    sprite: Objects/Misc/utensils.rsi
+    sprite: _Amour/Objects/Misc/utensils.rsi
     state: spoon

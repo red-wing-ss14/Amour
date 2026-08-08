@@ -12,12 +12,12 @@
     state: construction-1
   - type: Item
     size: Normal
-    sprite: Objects/Tools/bucket.rsi #Goobstation
+    sprite: _Amour/Objects/Tools/bucket.rsi #Goobstation
   - type: Construction
     graph: scraphelmet
     node: wiredbucket
   - type: Clothing # Goobstation
-    sprite: Objects/Tools/bucket.rsi
+    sprite: _Amour/Objects/Tools/bucket.rsi
     slots:
     - HEAD
     quickEquip: false
@@ -45,12 +45,12 @@
     state: construction-2
   - type: Item
     size: Normal
-    sprite: Objects/Tools/bucket.rsi #Goobstation
+    sprite: _Amour/Objects/Tools/bucket.rsi #Goobstation
   - type: Construction
     graph: scraphelmet
     node: slicedbucket
   - type: Clothing # Goobstation
-    sprite: Objects/Tools/bucket.rsi
+    sprite: _Amour/Objects/Tools/bucket.rsi
     slots:
     - HEAD
     quickEquip: false

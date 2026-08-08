@@ -11,7 +11,7 @@
   - type: Item
     heldPrefix: scanner
   - type: Sprite
-    sprite: Objects/Specific/Medical/handheldcrewmonitor.rsi
+    sprite: _Amour/Objects/Specific/Medical/handheldcrewmonitor.rsi
     # RW-Edit-Start
     layers:
     - state: scanner

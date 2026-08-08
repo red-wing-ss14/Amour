@@ -37,7 +37,7 @@
   description: This left hand can be transplanted into any living organism and it will adapt to its recipient.
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_hand"
 
 - type: entity
@@ -47,7 +47,7 @@
   description: This right hand can be transplanted into any living organism and it will adapt to its recipient.
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_hand"
 
 - type: entity

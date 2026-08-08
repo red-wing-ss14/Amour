@@ -10,17 +10,17 @@
       steps:
       - tag: Bucket # general mixing and container
         icon:
-          sprite: Objects/Tools/bucket.rsi
+          sprite: _Amour/Objects/Tools/bucket.rsi
           state: icon
         name: construction-graph-tag-bucket
       - tag: Multitool  # for the screen
         icon:
-          sprite: Objects/Tools/multitool.rsi
+          sprite: _Amour/Objects/Tools/multitool.rsi
           state: icon
         name: construction-graph-tag-multitool
       - tag: GlassBeaker
         icon:
-          sprite: Objects/Specific/Chemistry/beaker.rsi
+          sprite: _Amour/Objects/Specific/Chemistry/beaker.rsi
           state: beaker
         name: construction-graph-tag-beaker
       - material: Cable

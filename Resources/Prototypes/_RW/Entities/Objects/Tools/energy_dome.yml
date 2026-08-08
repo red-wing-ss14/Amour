@@ -11,7 +11,7 @@
     slots:
     - Belt
   - type: Sprite
-    sprite: _RW/Objects/Tools/EnergyDome/syndie.rsi
+    sprite: _Amour/Objects/Tools/EnergyDome/syndie.rsi
     layers:
       - state: icon
   - type: ContainerContainer
@@ -46,7 +46,7 @@
   description: A two-handed and heavy energy barrier with extremely low passive energy consumption. Can be tethered with a multitool.
   components:
   - type: Sprite
-    sprite: _RW/Objects/Tools/EnergyDome/reinhardt.rsi
+    sprite: _Amour/Objects/Tools/EnergyDome/reinhardt.rsi
     layers:
     - state: icon
   - type: InteractionOutline

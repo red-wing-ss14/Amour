@@ -504,7 +504,7 @@
   description: The toy is more edible than the food.
   components:
   - type: Sprite
-    sprite: Objects/Storage/Happyhonk/clown.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/clown.rsi
     state: box
     layers: # Goobstation?
     - state: box
@@ -512,7 +512,7 @@
     - state: box-open
       map: ["openLayer"]
   - type: Item
-    sprite: Objects/Storage/Happyhonk/clown.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/clown.rsi
     heldPrefix: box
   - type: Storage
     maxItemSize: Normal
@@ -539,9 +539,9 @@
     - Trash
     - MimeHappyHonk
   - type: Sprite
-    sprite: Objects/Storage/Happyhonk/mime.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/mime.rsi
   - type: Item
-    sprite: Objects/Storage/Happyhonk/mime.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/mime.rsi
 
 - type: entity
   id: HappyHonkNukie
@@ -551,9 +551,9 @@
   suffix: Toy Unsafe
   components:
   - type: Sprite
-    sprite: Objects/Storage/Happyhonk/nukie.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/nukie.rsi
   - type: Item
-    sprite: Objects/Storage/Happyhonk/nukie.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/nukie.rsi
   - type: EntityTableContainerFill
     containers:
       storagebase: !type:NestedSelector
@@ -605,9 +605,9 @@
     - CluwneHappyHonk # BAD: Intentional removal of parent tag
     - BoxCardboard
   - type: Sprite
-    sprite: Objects/Storage/Happyhonk/cluwne.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/cluwne.rsi
   - type: Item
-    sprite: Objects/Storage/Happyhonk/cluwne.rsi
+    sprite: _Amour/Objects/Storage/Happyhonk/cluwne.rsi
   - type: EntityTableContainerFill
     containers:
       storagebase:

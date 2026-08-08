@@ -40,7 +40,7 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Objects/Tools/Toolboxes/toolbox_red.rsi
+    - sprite: _Amour/Objects/Tools/Toolboxes/toolbox_red.rsi
       state: icon
 
 - type: entity
@@ -205,6 +205,6 @@
     sprite: Markers/jobs.rsi
     layers:
     - state: green
-    - sprite: Objects/Tools/Toolboxes/toolbox_red.rsi
+    - sprite: _Amour/Objects/Tools/Toolboxes/toolbox_red.rsi
       state: icon
   - type: MaintsSpawnLocation

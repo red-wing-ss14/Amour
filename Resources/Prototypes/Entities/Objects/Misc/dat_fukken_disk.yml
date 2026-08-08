@@ -27,7 +27,7 @@
   - type: SpecialRespawn
     prototype: NukeDisk
   - type: Sprite
-    sprite: Objects/Misc/nukedisk.rsi
+    sprite: _Amour/Objects/Misc/nukedisk.rsi
     state: icon
   - type: StaticPrice
     price: 2000
@@ -77,7 +77,7 @@
         volume: -7
   # Goobstation edit end
   - type: Sprite
-    sprite: Objects/Misc/nukedisk.rsi
+    sprite: _Amour/Objects/Misc/nukedisk.rsi
     state: icon
   - type: StaticPrice
     price: 1 # it's worth even less than normal items. Perfection.

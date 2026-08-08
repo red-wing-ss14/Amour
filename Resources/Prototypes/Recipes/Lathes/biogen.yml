@@ -76,7 +76,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Tools/Hydroponics/sprays.rsi
+    sprite: _Amour/Objects/Tools/Hydroponics/sprays.rsi
     state: plantbgone
   completetime: 1
   materials:
@@ -89,7 +89,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Tools/Hydroponics/sprays.rsi
+    sprite: _Amour/Objects/Tools/Hydroponics/sprays.rsi
     state: weedspray
   completetime: 1
   materials:
@@ -102,7 +102,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Tools/Hydroponics/sprays.rsi
+    sprite: _Amour/Objects/Tools/Hydroponics/sprays.rsi
     state: weedspray
   completetime: 1
   materials:
@@ -115,7 +115,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:
@@ -128,7 +128,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:
@@ -141,7 +141,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:
@@ -267,7 +267,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 5
   materials:
@@ -280,7 +280,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:
@@ -293,7 +293,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:
@@ -306,7 +306,7 @@
   categories:
   - Chemicals
   icon:
-    sprite: Objects/Specific/Chemistry/bottle.rsi
+    sprite: _Amour/Objects/Specific/Chemistry/bottle.rsi
     state: bottle-1
   completetime: 1
   materials:

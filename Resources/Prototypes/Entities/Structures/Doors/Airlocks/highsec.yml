@@ -16,7 +16,7 @@
   - type: InteractionOutline
   - type: Sprite
     snapCardinals: true
-    sprite: Structures/Doors/Airlocks/highsec/highsec.rsi
+    sprite: _Amour/Structures/Doors/Airlocks/highsec/highsec.rsi
     layers:
     - state: closed
       map: ["enum.DoorVisualLayers.Base"]

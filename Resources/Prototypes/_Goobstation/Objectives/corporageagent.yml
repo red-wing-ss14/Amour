@@ -80,7 +80,7 @@
     - type: Objective
       difficulty: 5 # insane, default config max difficulty
       icon:
-        sprite: Objects/Tools/emag.rsi
+        sprite: _Amour/Objects/Tools/emag.rsi
         state: icon
     - type: HijackShuttleCondition
 

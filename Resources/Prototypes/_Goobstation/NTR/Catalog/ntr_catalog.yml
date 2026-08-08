@@ -37,7 +37,7 @@
   description: ntr-executive-mindshield-crate-desc # CorvaxGoob-changes: A crate containing 3 mindshield implants. Corporate advises you to buy them in cargo anyway. > ntr-executive-mindshield-crate-desc
   productEntity: SpawnPodMindshield
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   cost:
     NTLoyaltyPoint: 15
@@ -87,7 +87,7 @@
   description: ntr-executive-disk-small-desc
   productEntity: SpawnPodDisks
   icon:
-    sprite: Objects/Specific/Research/researchdisk.rsi
+    sprite: _Amour/Objects/Specific/Research/researchdisk.rsi
     state: icon
   cost:
     NTLoyaltyPoint: 10
@@ -103,7 +103,7 @@
   description: ntr-executive-emergency-meds-desc
   productEntity: SpawnPodEmergencyMed
   icon:
-    sprite: Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Amour/Objects/Specific/Medical/firstaidkits.rsi
     state: firstaid
   cost:
     NTLoyaltyPoint: 10 # woundmd ahhhh
@@ -135,7 +135,7 @@
   description: ntr-executive-tools-small-desc
   productEntity: SpawnPodTools
   icon:
-    sprite: Objects/Tools/crowbar.rsi
+    sprite: _Amour/Objects/Tools/crowbar.rsi
     state: icon
   cost:
     NTLoyaltyPoint: 3
@@ -300,7 +300,7 @@
 #  description: ntr-executive-1984-desc
 #  productEntity: SpawnPodDeckard
 #  icon:
-#    sprite: Objects/Weapons/Guns/Revolvers/deckard.rsi
+#    sprite: _Amour/Objects/Weapons/Guns/Revolvers/deckard.rsi
 #    state: base
 #  cost:
 #    NTLoyaltyPoint: 15
@@ -316,7 +316,7 @@
   description: ntr-executive-combatmed-desc
   productEntity: SpawnPodMedkit
   icon:
-    sprite: Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Amour/Objects/Specific/Medical/firstaidkits.rsi
     state: blackkit
   cost:
     NTLoyaltyPoint: 15
@@ -435,7 +435,7 @@
   description: ntr-executive-fat-desc
   productEntity: SpawnPodFat
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: service
   cost:
     NTLoyaltyPoint: 5 # lol
@@ -451,7 +451,7 @@
   description: ntr-executive-grav-desc
   productEntity: SpawnPodGrav
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: engineering
   cost:
     NTLoyaltyPoint: 20
@@ -467,7 +467,7 @@
   description: ntr-executive-teleporter-desc
   productEntity: SpawnPodTeleporter
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: supply
   cost:
     NTLoyaltyPoint: 30 # 30 min cd does its job
@@ -504,7 +504,7 @@
   description: ntr-executive-monitoring-desc
   productEntity: SpawnPodMonitoring
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: cpu_medical
   cost:
     NTLoyaltyPoint: 15
@@ -522,7 +522,7 @@
   description: ntr-executive-rnd-desc
   productEntity: SpawnPodRnd
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: science
   cost:
     NTLoyaltyPoint: 100
@@ -540,7 +540,7 @@
   description: ntr-executive-comms-desc
   productEntity: SpawnPodComms
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: cpu_command
   cost:
     NTLoyaltyPoint: 65 #pheenty: 65
@@ -558,7 +558,7 @@
   description: ntr-executive-cargosell-desc
   productEntity: SpawnPodCargo
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: supply
   cost:
     NTLoyaltyPoint: 50
@@ -577,7 +577,7 @@
   description: ntr-executive-cargoshuttle-desc
   productEntity: SpawnPodCargoShuttle
   icon:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: supply
   cost:
     NTLoyaltyPoint: 50

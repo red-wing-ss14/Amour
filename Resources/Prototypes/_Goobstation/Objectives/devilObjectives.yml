@@ -15,7 +15,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Misc/bureaucracy.rsi
+      sprite: _Amour/Objects/Misc/bureaucracy.rsi
       state: contract-written
   - type: NumberObjective
     min: 7

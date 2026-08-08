@@ -11,5 +11,5 @@
   parent: BaseVerySmallStack
   id: Gunpowder
   name: stack-gunpowder
-  icon: { sprite: /Textures/Objects/Misc/reagent_fillings.rsi, state: powderpile }
+  icon: { sprite: /Textures/_Amour/Objects/Misc/reagent_fillings.rsi, state: powderpile }
   spawn: MaterialGunpowder

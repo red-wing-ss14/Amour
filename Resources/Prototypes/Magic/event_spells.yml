@@ -28,7 +28,7 @@
     useDelay: 300
     itemIconStyle: BigAction
     icon:
-      sprite: Objects/Weapons/Guns/Rifles/ak.rsi
+      sprite: _Amour/Objects/Weapons/Guns/Rifles/ak.rsi
       state: base
   - type: InstantAction
     event: !type:RandomGlobalSpawnSpellEvent

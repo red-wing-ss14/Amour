@@ -530,7 +530,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Structures/Power/Generation/Singularity/emitter.rsi
+    sprite: _Amour/Structures/Power/Generation/Singularity/emitter.rsi
     layers:
     - state: projectile
       shader: unshaded

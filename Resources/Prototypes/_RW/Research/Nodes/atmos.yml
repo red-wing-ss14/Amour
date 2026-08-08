@@ -3,7 +3,7 @@
   name: research-technology-atmospherics-name
   description: research-technology-atmospherics-desc
   icon:
-    sprite: Objects/Tanks/oxygen.rsi
+    sprite: _Amour/Objects/Tanks/oxygen.rsi
     state: icon
   discipline: Engineering
   tier: 1
@@ -108,7 +108,7 @@
   name: research-technology-experimental-tools-name
   description: research-technology-experimental-tools-desc
   icon:
-    sprite: Objects/Tools/jaws_of_life.rsi
+    sprite: _Amour/Objects/Tools/jaws_of_life.rsi
     state: jaws_pry
   discipline: Engineering
   tier: 4

@@ -65,7 +65,7 @@
   name: 6pack
   components:
   - type: Sprite
-    sprite: Objects/Misc/6pack.rsi
+    sprite: _Amour/Objects/Misc/6pack.rsi
     layers:
     - state: plastic-thingy
     - state: 6pack1

@@ -7,7 +7,7 @@
   description: Case for storing up to two disks. Or whatever you can fit in it.  # Reserve: CD disks fix
   components:
   - type: Sprite
-    sprite: Objects/Misc/diskcases.rsi
+    sprite: _Amour/Objects/Misc/diskcases.rsi
     state: icon_base
   - type: Storage
     grid:

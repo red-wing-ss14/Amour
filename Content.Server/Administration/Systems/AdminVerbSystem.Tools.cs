@@ -239,7 +239,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-oxygen"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/oxygen.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/oxygen.rsi"), "icon"),
                 Act = () =>
                 {
                     RefillGasTank(args.Target, Gas.Oxygen, tank);
@@ -254,7 +254,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-nitrogen"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/red.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/red.rsi"), "icon"),
                 Act = () =>
                 {
                     RefillGasTank(args.Target, Gas.Nitrogen, tank);
@@ -269,7 +269,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-plasma"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/plasma.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/plasma.rsi"), "icon"),
                 Act = () =>
                 {
                     RefillGasTank(args.Target, Gas.Plasma, tank);
@@ -287,7 +287,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-oxygen"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/oxygen.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/oxygen.rsi"), "icon"),
                 Act = () => RefillEquippedTanks(args.User, Gas.Oxygen),
                 Impact = LogImpact.Extreme,
                 Message = Loc.GetString("admin-trick-internals-refill-oxygen-description"),
@@ -299,7 +299,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-nitrogen"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/red.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/red.rsi"), "icon"),
                 Act = () => RefillEquippedTanks(args.User, Gas.Nitrogen),
                 Impact = LogImpact.Extreme,
                 Message = Loc.GetString("admin-trick-internals-refill-nitrogen-description"),
@@ -311,7 +311,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-refill-internals-plasma"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Tanks/plasma.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Tanks/plasma.rsi"), "icon"),
                 Act = () => RefillEquippedTanks(args.User, Gas.Plasma),
                 Impact = LogImpact.Extreme,
                 Message = Loc.GetString("admin-trick-internals-refill-plasma-description"),
@@ -345,7 +345,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-grant-all-access"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/id_cards.rsi"), "centcom"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/id_cards.rsi"), "centcom"),
                 Act = () =>
                 {
                     GiveAllAccess(activeId.Value);
@@ -360,7 +360,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-revoke-all-access"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/id_cards.rsi"), "default"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/id_cards.rsi"), "default"),
                 Act = () =>
                 {
                     RevokeAllAccess(activeId.Value);
@@ -378,7 +378,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-grant-all-access"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/id_cards.rsi"), "centcom"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/id_cards.rsi"), "centcom"),
                 Act = () =>
                 {
                     GiveAllAccess(args.Target);
@@ -393,7 +393,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-revoke-all-access"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Misc/id_cards.rsi"), "default"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Misc/id_cards.rsi"), "default"),
                 Act = () =>
                 {
                     RevokeAllAccess(args.Target);
@@ -698,7 +698,7 @@ public sealed partial class AdminVerbSystem
             {
                 Text = Loc.GetString("admin-verbs-make-minigun"),
                 Category = VerbCategory.Tricks,
-                Icon = new SpriteSpecifier.Rsi(new("/Textures/Objects/Weapons/Guns/HMGs/minigun.rsi"), "icon"),
+                Icon = new SpriteSpecifier.Rsi(new("/Textures/_Amour/Objects/Weapons/Guns/HMGs/minigun.rsi"), "icon"),
                 Act = () =>
                 {
                     EnsureComp<AdminMinigunComponent>(args.Target);

@@ -10,7 +10,7 @@
       steps:
       - tag: MimeHappyHonk
         icon:
-          sprite: Objects/Storage/Happyhonk/mime.rsi
+          sprite: _Amour/Objects/Storage/Happyhonk/mime.rsi
           state: box
         name: construction-graph-tag-mime-meal
       - tag: MimeBelt
@@ -21,12 +21,12 @@
         doAfter: 2
       - tag: ProximitySensor
         icon:
-          sprite: Objects/Misc/proximity_sensor.rsi
+          sprite: _Amour/Objects/Misc/proximity_sensor.rsi
           state: icon
         name: construction-graph-tag-proximity-sensor
       - tag: BorgHead
         icon:
-          sprite: Objects/Specific/Robotics/cyborg_parts.rsi
+          sprite: _Amour/Objects/Specific/Robotics/cyborg_parts.rsi
           state: borg_head
         name: construction-graph-tag-borg-head
         doAfter: 2

@@ -7,7 +7,7 @@
   description: Artificial Intelligence cyborg control board.
   components:
     - type: Sprite
-      sprite: Objects/Misc/module.rsi
+      sprite: _Amour/Objects/Misc/module.rsi
       state: boris
     - type: Examiner
     - type: AiRemoteBrain

@@ -138,7 +138,7 @@
     cuffTime: 3
     breakoutTime: 5
     breakOnRemove: true
-    cuffedRSI: Objects/Misc/cablecuffs.rsi
+    cuffedRSI: _Amour/Objects/Misc/cablecuffs.rsi
     bodyIconState: body-overlay
     color: black
   - type: Sprite

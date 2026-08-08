@@ -71,7 +71,7 @@
   description: 'A chilling medical receipt.'
   components:
   - type: Sprite
-    sprite: Objects/Misc/bureaucracy.rsi
+    sprite: _Amour/Objects/Misc/bureaucracy.rsi
     layers:
     - state: paper_receipt
     - state: paper_receipt_words

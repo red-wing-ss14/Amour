@@ -1716,7 +1716,7 @@
     denyState: deny-unshaded
   - type: Sprite
     noRot: true
-    sprite: Structures/Machines/VendingMachines/youtool.rsi
+    sprite: _Amour/Structures/Machines/VendingMachines/youtool.rsi
     layers:
     - state: "off"
       map: ["enum.VendingMachineVisualLayers.Base"]

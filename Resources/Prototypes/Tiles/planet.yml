@@ -14,7 +14,7 @@
   id: FloorPlanetDirt
   parent: BaseFloorPlanet
   name: tiles-dirt-planet-floor
-  sprite: /Textures/Tiles/Planet/dirt.rsi/dirt.png
+  sprite: /Textures/_Amour/Tiles/Planet/dirt.rsi/dirt.png
   variants: 4
   placementVariants:
   - 1.0
@@ -27,7 +27,7 @@
   id: FloorDesert
   parent: BaseFloorPlanet
   name: tiles-desert-floor
-  sprite: /Textures/Tiles/Planet/Desert/desert.png
+  sprite: /Textures/_Amour/Tiles/Planet/Desert/desert.png
   variants: 6
   placementVariants:
   - 1.0
@@ -40,7 +40,7 @@
 - type: tile
   id: FloorLowDesert
   name: tiles-low-desert-floor
-  sprite: /Textures/Tiles/Planet/Desert/low_desert.png
+  sprite: /Textures/_Amour/Tiles/Planet/Desert/low_desert.png
   variants: 6
   placementVariants:
   - 1.0
@@ -55,7 +55,7 @@
   id: FloorPlanetGrass
   parent: BaseFloorPlanet
   name: tiles-grass-planet-floor
-  sprite: /Textures/Tiles/Planet/Grass/grass.png
+  sprite: /Textures/_Amour/Tiles/Planet/Grass/grass.png
   variants: 4
   placementVariants:
   - 1.0
@@ -64,14 +64,14 @@
   - 1.0
   edgeSpritePriority: 1
   edgeSprites:
-    SouthEast: /Textures/Tiles/Planet/Grass/single_edge.png
-    NorthEast: /Textures/Tiles/Planet/Grass/single_edge.png
-    NorthWest: /Textures/Tiles/Planet/Grass/single_edge.png
-    SouthWest: /Textures/Tiles/Planet/Grass/single_edge.png
-    South: /Textures/Tiles/Planet/Grass/double_edge.png
-    East: /Textures/Tiles/Planet/Grass/double_edge.png
-    North: /Textures/Tiles/Planet/Grass/double_edge.png
-    West: /Textures/Tiles/Planet/Grass/double_edge.png
+    SouthEast: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    NorthEast: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    NorthWest: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    SouthWest: /Textures/_Amour/Tiles/Planet/Grass/single_edge.png
+    South: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    East: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    North: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
+    West: /Textures/_Amour/Tiles/Planet/Grass/double_edge.png
   baseTurf: FloorPlanetDirt
   footstepSounds:
     collection: FootstepGrass
@@ -81,14 +81,14 @@
   id: FloorBasalt
   name: tiles-basalt-floor
   parent: BaseFloorPlanet
-  sprite: /Textures/Tiles/Planet/basalt.png
+  sprite: /Textures/_Amour/Tiles/Planet/basalt.png
 
 # Snow
 - type: tile
   id: FloorSnow
   parent: BaseFloorPlanet
   name: tiles-snow
-  sprite: /Textures/Tiles/Planet/Snow/snow.png
+  sprite: /Textures/_Amour/Tiles/Planet/Snow/snow.png
   variants: 13
   placementVariants:
   - 0.8
@@ -106,10 +106,10 @@
   - 0.0116
   edgeSpritePriority: 2
   edgeSprites:
-    South: /Textures/Tiles/Planet/Snow/snow_double_edge_south.png
-    East: /Textures/Tiles/Planet/Snow/snow_double_edge_east.png
-    North: /Textures/Tiles/Planet/Snow/snow_double_edge_north.png
-    West: /Textures/Tiles/Planet/Snow/snow_double_edge_west.png
+    South: /Textures/_Amour/Tiles/Planet/Snow/snow_double_edge_south.png
+    East: /Textures/_Amour/Tiles/Planet/Snow/snow_double_edge_east.png
+    North: /Textures/_Amour/Tiles/Planet/Snow/snow_double_edge_north.png
+    West: /Textures/_Amour/Tiles/Planet/Snow/snow_double_edge_west.png
   footstepSounds:
     collection: FootstepSnow
 
@@ -117,7 +117,7 @@
 - type: tile
   id: FloorIce
   name: tiles-ice
-  sprite: /Textures/Tiles/Planet/Snow/ice.png
+  sprite: /Textures/_Amour/Tiles/Planet/Snow/ice.png
   isSubfloor: true
   friction: 0.05
   heatCapacity: 10000
@@ -130,13 +130,13 @@
   id: FloorSnowDug
   parent: BaseFloorPlanet
   name: tiles-snow-dug
-  sprite: /Textures/Tiles/Planet/Snow/snow_dug.png
+  sprite: /Textures/_Amour/Tiles/Planet/Snow/snow_dug.png
   edgeSpritePriority: 1
   edgeSprites:
-    South: /Textures/Tiles/Planet/Snow/snow_dug_double_edge_south.png
-    East: /Textures/Tiles/Planet/Snow/snow_dug_double_edge_east.png
-    North: /Textures/Tiles/Planet/Snow/snow_dug_double_edge_north.png
-    West: /Textures/Tiles/Planet/Snow/snow_dug_double_edge_west.png
+    South: /Textures/_Amour/Tiles/Planet/Snow/snow_dug_double_edge_south.png
+    East: /Textures/_Amour/Tiles/Planet/Snow/snow_dug_double_edge_east.png
+    North: /Textures/_Amour/Tiles/Planet/Snow/snow_dug_double_edge_north.png
+    West: /Textures/_Amour/Tiles/Planet/Snow/snow_dug_double_edge_west.png
   footstepSounds:
     collection: FootstepSnow
 

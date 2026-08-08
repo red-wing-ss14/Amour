@@ -4,7 +4,7 @@
 - type: stack
   id: ArtifactFragmentOre
   name: stack-artifact-fragment-ore
-  icon: { sprite: Objects/Specific/Xenoarchaeology/artifact_fragments.rsi, state: ancientball1 }
+  icon: { sprite: _Amour/Objects/Specific/Xenoarchaeology/artifact_fragments.rsi, state: ancientball1 }
   spawn: ArtifactFragmentOre1
   maxCount: 30
 
@@ -76,7 +76,7 @@
 - type: stack
   id: ArtifactFragmentOreUnprocessed
   name: stack-unprocessed-artifact-fragment-ore
-  icon: { sprite: Objects/Specific/Xenoarchaeology/artifact_fragments.rsi, state: ancientball1 }
+  icon: { sprite: _Amour/Objects/Specific/Xenoarchaeology/artifact_fragments.rsi, state: ancientball1 }
   spawn: ArtifactFragmentOre1Unprocessed
   maxCount: 30
 

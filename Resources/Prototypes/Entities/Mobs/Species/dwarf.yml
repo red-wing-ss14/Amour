@@ -10,7 +10,7 @@
   - type: Hunger
   - type: Thirst
   - type: Icon
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: Respirator
     damage:
@@ -72,107 +72,107 @@
       Chest:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Head:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LArm:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RArm:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LHand:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism_hand_left
       RHand:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism_hand_right
       LLeg:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RLeg:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LFoot:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RFoot:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Tail:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Special:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Hair:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       FacialHair:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Snout:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       HeadSide:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       HeadTop:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Eyes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Wings:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Face:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Groin:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
   - type: CreamPied
     displacement: Dwarfism
@@ -186,12 +186,12 @@
     leftHandDisplacement:
       sizeMaps:
         32:
-          sprite: Mobs/Species/Human/displacement.rsi
+          sprite: _Amour/Mobs/Species/Human/displacement.rsi
           state: dwarfism_hand_left
     rightHandDisplacement:
       sizeMaps:
         32:
-          sprite: Mobs/Species/Human/displacement.rsi
+          sprite: _Amour/Mobs/Species/Human/displacement.rsi
           state: dwarfism_hand_right
   - type: Inventory
     femaleDisplacements: { }
@@ -199,82 +199,82 @@
       jumpsuit:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       outerClothing:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       suitstorage:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       id:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       mask:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       belt:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       eyes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       gloves:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       head:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       neck:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       back:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       ears:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       shoes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       underwear:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       undershirt:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       socks:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
   - type: InnateMiningScannerViewer # Frontier
     pingSound: null
@@ -297,118 +297,118 @@
       Chest:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Head:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LArm:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RArm:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LHand:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism_hand_left
       RHand:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism_hand_right
       LLeg:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RLeg:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       LFoot:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       RFoot:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Tail:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Special:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Hair:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       FacialHair:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Snout:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       HeadSide:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       HeadTop:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Eyes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Wings:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Face:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       Groin:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
   - type: Hands
     leftHandDisplacement:
       sizeMaps:
         32:
-          sprite: Mobs/Species/Human/displacement.rsi
+          sprite: _Amour/Mobs/Species/Human/displacement.rsi
           state: dwarfism_hand_left
     rightHandDisplacement:
       sizeMaps:
         32:
-          sprite: Mobs/Species/Human/displacement.rsi
+          sprite: _Amour/Mobs/Species/Human/displacement.rsi
           state: dwarfism_hand_right
   - type: Inventory
     femaleDisplacements: { }
@@ -416,80 +416,80 @@
       jumpsuit:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       outerClothing:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       suitstorage:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       id:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       mask:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       belt:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       eyes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       gloves:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       head:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       neck:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       back:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       ears:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       shoes:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       underwear:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       undershirt:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism
       socks:
         sizeMaps:
           32:
-            sprite: Mobs/Species/Human/displacement.rsi
+            sprite: _Amour/Mobs/Species/Human/displacement.rsi
             state: dwarfism

@@ -327,7 +327,7 @@
       enum.StackCustomSplitUiKey.Key:
         type: StackCustomSplitBoundUserInterface
   - type: Sprite
-    sprite: /Textures/Objects/Misc/monkeycube.rsi
+    sprite: /Textures/_Amour/Objects/Misc/monkeycube.rsi
     state: cube
     color: "#8A9A5B"
   - type: GuideHelp
@@ -850,7 +850,7 @@
       enum.StackCustomSplitUiKey.Key:
         type: StackCustomSplitBoundUserInterface
   - type: Sprite
-    sprite: Objects/Misc/reagent_fillings.rsi
+    sprite: _Amour/Objects/Misc/reagent_fillings.rsi
     state: powderpile
     color: darkgray
   - type: PhysicalComposition

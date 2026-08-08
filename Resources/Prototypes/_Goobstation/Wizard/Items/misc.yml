@@ -218,7 +218,7 @@
     size: Small
     storedSprite:
       state: blue-storage
-      sprite: Objects/Tools/crowbar.rsi
+      sprite: _Amour/Objects/Tools/crowbar.rsi
     inhandVisuals:
       left:
       - state: inhand-left

@@ -50,37 +50,37 @@
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
       - tag: MopBasic
         name: construction-graph-tag-mop-basic
         icon:
-          sprite: Objects/Specific/Janitorial/mop.rsi
+          sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
           state: mop
         doAfter: 5
   - node: shoes

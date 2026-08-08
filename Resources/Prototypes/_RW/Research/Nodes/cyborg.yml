@@ -36,7 +36,7 @@
   name: research-technology-cybernetics-name
   description: research-technology-cybernetics-desc
   icon:
-    sprite: Objects/Specific/Robotics/mmi.rsi
+    sprite: _Amour/Objects/Specific/Robotics/mmi.rsi
     state: posibrain
   discipline: Robotics
   tier: 1
@@ -79,7 +79,7 @@
   name: research-technology-borg-services-name
   description: research-technology-borg-services-desc
   icon:
-    sprite: Objects/Specific/Robotics/borgmodule.rsi
+    sprite: _Amour/Objects/Specific/Robotics/borgmodule.rsi
     state: generic
   discipline: Robotics
   tier: 2
@@ -99,7 +99,7 @@
   name: research-technology-borg-mining-name
   description: research-technology-borg-mining-desc
   icon:
-    sprite: Objects/Specific/Robotics/borgmodule.rsi
+    sprite: _Amour/Objects/Specific/Robotics/borgmodule.rsi
     state: generic
   discipline: Robotics
   tier: 2
@@ -119,7 +119,7 @@
   name: research-technology-borg-medical-name
   description: research-technology-borg-medical-desc
   icon:
-    sprite: Objects/Specific/Robotics/borgmodule.rsi
+    sprite: _Amour/Objects/Specific/Robotics/borgmodule.rsi
     state: generic
   discipline: Robotics
   tier: 3
@@ -141,7 +141,7 @@
   name: research-technology-borg-utility-name
   description: research-technology-borg-utility-desc
   icon:
-    sprite: Objects/Specific/Robotics/borgmodule.rsi
+    sprite: _Amour/Objects/Specific/Robotics/borgmodule.rsi
     state: generic
   discipline: Robotics
   tier: 3
@@ -167,7 +167,7 @@
   name: research-technology-borg-engineering-name
   description: research-technology-borg-engineering-desc
   icon:
-    sprite: Objects/Specific/Robotics/borgmodule.rsi
+    sprite: _Amour/Objects/Specific/Robotics/borgmodule.rsi
     state: generic
   discipline: Robotics
   tier: 3
@@ -189,7 +189,7 @@
   name: research-technology-passive-implants-name
   description: research-technology-passive-implants-desc
   icon:
-    sprite: Objects/Specific/Medical/implanter.rsi
+    sprite: _Amour/Objects/Specific/Medical/implanter.rsi
     state: implanter0
   discipline: Robotics
   tier: 1

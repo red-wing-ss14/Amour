@@ -55,7 +55,7 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
-    sprite: Objects/Tools/Toolboxes/toolbox_blue.rsi
+    sprite: _Amour/Objects/Tools/Toolboxes/toolbox_blue.rsi
     layers:
     - state: icon
   - type: Reflective
@@ -73,7 +73,7 @@
     lifetime: 1
     alphaLerpAmount: 0.4
     sprite:
-      sprite: /Textures/Objects/Tools/Toolboxes/toolbox_blue.rsi
+      sprite: /Textures/_Amour/Objects/Tools/Toolboxes/toolbox_blue.rsi
       state: icon
   - type: Fixtures
     fixtures:

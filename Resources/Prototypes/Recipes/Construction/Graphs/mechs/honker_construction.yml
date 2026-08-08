@@ -21,7 +21,7 @@
       - tag: HonkerCentralControlModule
         name: construction-graph-tag-honk-central-control-module
         icon:
-          sprite: "Objects/Misc/module.rsi"
+          sprite: "_Amour/Objects/Misc/module.rsi"
           state: "mainboard"
         completed:
         - !type:VisualizerDataInt
@@ -38,7 +38,7 @@
       - tag: HonkerPeripheralsControlModule
         name: construction-graph-tag-honk-peripherals-control-module
         icon:
-          sprite: "Objects/Misc/module.rsi"
+          sprite: "_Amour/Objects/Misc/module.rsi"
           state: id_mod
         completed:
         - !type:VisualizerDataInt
@@ -55,7 +55,7 @@
       - tag: HonkerTargetingControlModule
         name: construction-graph-tag-honk-weapon-control-and-targeting-module
         icon:
-          sprite: "Objects/Misc/module.rsi"
+          sprite: "_Amour/Objects/Misc/module.rsi"
           state: id_mod
         completed:
         - !type:VisualizerDataInt

@@ -16,7 +16,7 @@
   parent: [PartFelinid, BaseHead]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "head_m"
 
 - type: entity
@@ -25,7 +25,7 @@
   parent: [PartFelinid, BaseChest]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "chest_m"
 
 - type: entity
@@ -34,7 +34,7 @@
   parent: [PartFelinid, BaseGroin]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "groin_m"
 
 - type: entity
@@ -43,7 +43,7 @@
   parent: [PartFelinid, BaseLeftArm]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_arm"
 
 - type: entity
@@ -52,7 +52,7 @@
   parent: [PartFelinid, BaseRightArm]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_arm"
 
 - type: entity
@@ -61,7 +61,7 @@
   parent: [PartFelinid, BaseLeftHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_hand"
 
 - type: entity
@@ -70,7 +70,7 @@
   parent: [PartFelinid, BaseRightHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_hand"
 
 - type: entity
@@ -79,7 +79,7 @@
   parent: [PartFelinid, BaseLeftLeg]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_leg"
 
 - type: entity
@@ -88,7 +88,7 @@
   parent: [PartFelinid, BaseRightLeg]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_leg"
 
 - type: entity
@@ -97,7 +97,7 @@
   parent: [PartFelinid, BaseLeftFoot]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_foot"
 
 - type: entity
@@ -106,5 +106,5 @@
   parent: [PartFelinid, BaseRightFoot]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_foot"

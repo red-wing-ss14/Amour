@@ -5,21 +5,21 @@
   id: Hypospray
   name: steal-target-groups-hypospray
   sprite:
-    sprite: Objects/Specific/Medical/hypospray.rsi
+    sprite: _Amour/Objects/Specific/Medical/hypospray.rsi
     state: hypo
 
 #- type: stealTargetGroup # Goobstation - made this public
 #  id: HandheldCrewMonitor
 #  name: steal-target-groups-handheld-crew-monitor
 #  sprite:
-#    sprite: Objects/Specific/Medical/handheldcrewmonitor.rsi
+#    sprite: _Amour/Objects/Specific/Medical/handheldcrewmonitor.rsi
 #    state: scanner
 
 - type: stealTargetGroup
   id: ClothingOuterHardsuitRd
   name: steal-target-groups-clothing-outer-hardsuit-rd
   sprite:
-    sprite: Clothing/OuterClothing/Hardsuits/rd.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/rd.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -40,7 +40,7 @@
   id: BoxFolderQmClipboard
   name: steal-target-groups-box-folder-qm-clipboard
   sprite:
-    sprite: Objects/Misc/qm_clipboard.rsi
+    sprite: _Amour/Objects/Misc/qm_clipboard.rsi
     state: qm_clipboard
 
 - type: stealTargetGroup
@@ -61,14 +61,14 @@
   id: CaptainIDCard
   name: steal-target-groups-captain-id-card
   sprite:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Amour/Objects/Misc/id_cards.rsi
     state: ert_commander #no one will know the difference.
 
 - type: stealTargetGroup
   id: JetpackCaptainFilled
   name: steal-target-groups-jetpack-captain-filled
   sprite:
-    sprite: Objects/Tanks/Jetpacks/captain.rsi
+    sprite: _Amour/Objects/Tanks/Jetpacks/captain.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -82,7 +82,7 @@
   id: NukeDisk
   name: steal-target-groups-nuke-disk
   sprite:
-    sprite: Objects/Misc/nukedisk.rsi
+    sprite: _Amour/Objects/Misc/nukedisk.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -97,7 +97,7 @@
   id: WeaponRevolverInspector
   name: steal-target-groups-weapon-revolver-inspector
   sprite:
-    sprite: Objects/Weapons/Guns/Revolvers/inspector.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Revolvers/inspector.rsi
     state: icon
 # RW end
 
@@ -107,7 +107,7 @@
   id: HeadCloak
   name: steal-target-groups-heads-cloaks
   sprite:
-    sprite: Clothing/Neck/Cloaks/cap.rsi
+    sprite: _Amour/Clothing/Neck/Cloaks/cap.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -121,7 +121,7 @@
   id: Stamp
   name: steal-target-groups-stamps
   sprite:
-    sprite: Objects/Misc/stamps.rsi
+    sprite: _Amour/Objects/Misc/stamps.rsi
     state: stamp-cap
 
 - type: stealTargetGroup
@@ -135,7 +135,7 @@
   id: OfficerHandgun
   name: steal-target-groups-officer-handguns
   sprite:
-    sprite: Objects/Weapons/Guns/Pistols/mk58.rsi
+    sprite: _Amour/Objects/Weapons/Guns/Pistols/mk58.rsi
     state: base
 
 - type: stealTargetGroup
@@ -149,7 +149,7 @@
   id: TechnologyDisk
   name: steal-target-groups-technology-disks
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: datadisk_base
 
 - type: stealTargetGroup
@@ -163,14 +163,14 @@
   id: IDCard
   name: steal-target-groups-id-cards
   sprite:
-    sprite: Objects/Misc/id_cards.rsi
+    sprite: _Amour/Objects/Misc/id_cards.rsi
     state: default
 
 - type: stealTargetGroup
   id: LAMP
   name: steal-target-groups-lamps
   sprite:
-    sprite: Objects/Tools/lantern.rsi
+    sprite: _Amour/Objects/Tools/lantern.rsi
     state: lantern
 
 - type: stealTargetGroup #Goobstation
@@ -200,7 +200,7 @@
   id: AmmoTechFabCircuitboard
   name: steal-target-groups-ammo-tech-fab-circuitboard
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: security
 
 - type: stealTargetGroup
@@ -221,7 +221,7 @@
   id: MedicalTechFabCircuitboard
   name: steal-target-groups-medical-tech-fab-circuitboard
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: medical
 
 - type: stealTargetGroup
@@ -235,7 +235,7 @@
   id: ResearchAndDevelopmentServerMachineCircuitboard
   name: steal-target-groups-research-and-development-server-machine-circuitboard
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: science
 
 - type: stealTargetGroup
@@ -263,14 +263,14 @@
 #  id: SalvageExpeditionsComputerCircuitboard
 #  name: steal-target-groups-salvage-expeditions-computer-circuitboard
 #  sprite:
-#    sprite: Objects/Misc/module.rsi
+#    sprite: _Amour/Objects/Misc/module.rsi
 #    state: cpu_supply
 
 - type: stealTargetGroup
   id: CargoShuttleConsoleCircuitboard
   name: steal-target-groups-cargo-shuttle-console-circuitboard
   sprite:
-    sprite: Objects/Misc/module.rsi
+    sprite: _Amour/Objects/Misc/module.rsi
     state: cpuboard
 
 - type: stealTargetGroup
@@ -284,7 +284,7 @@
   id: Bible
   name: steal-target-groups-bible
   sprite:
-    sprite: Objects/Specific/Chapel/bible.rsi
+    sprite: _Amour/Objects/Specific/Chapel/bible.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -321,14 +321,14 @@
   id: NuclearBomb
   name: steal-target-groups-nuclear-bomb
   sprite:
-    sprite: Objects/Devices/nuke.rsi
+    sprite: _Amour/Objects/Devices/nuke.rsi
     state: nuclearbomb_base
 
 - type: stealTargetGroup
   id: FaxMachineCaptain
   name: steal-target-groups-fax-machine-captain
   sprite:
-    sprite: Structures/Machines/fax_machine.rsi
+    sprite: _Amour/Structures/Machines/fax_machine.rsi
     state: icon
 
 - type: stealTargetGroup
@@ -342,7 +342,7 @@
   id: XenoArtifact
   name: steal-target-groups-xeno-artifact
   sprite:
-    sprite: Objects/Specific/Xenoarchaeology/xeno_artifacts.rsi
+    sprite: _Amour/Objects/Specific/Xenoarchaeology/xeno_artifacts.rsi
     state: ano28
 
 - type: stealTargetGroup

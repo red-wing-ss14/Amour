@@ -4,7 +4,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Tools/Toolboxes/toolbox_red.rsi
+      sprite: _Amour/Objects/Tools/Toolboxes/toolbox_red.rsi
       state: icon
     difficulty: 1.5
     issuer: objective-issuer-unknown
@@ -34,7 +34,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Specific/Chapel/bible.rsi
+      sprite: _Amour/Objects/Specific/Chapel/bible.rsi
       state: icon
     difficulty: 1
     issuer: objective-issuer-lord-singuloth

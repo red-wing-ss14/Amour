@@ -11,19 +11,19 @@
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - material: Bananium
@@ -49,19 +49,19 @@
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - material: Bananium
@@ -87,19 +87,19 @@
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - tag: BananaPeel
               name: construction-graph-tag-banana-peel
               icon:
-                sprite: Objects/Specific/Hydroponics/banana.rsi
+                sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
                 state: peel
               doAfter: 1
             - material: Bananium

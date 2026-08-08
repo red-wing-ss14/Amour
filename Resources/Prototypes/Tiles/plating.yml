@@ -19,7 +19,7 @@
   id: Plating
   parent: BasePlating
   name: tiles-plating
-  sprite: /Textures/Tiles/plating.png
+  sprite: /Textures/_Amour/Tiles/plating.png
   # RW-Start
   variants: 4
   placementVariants:
@@ -50,7 +50,7 @@
   id: FloorHullReinforced
   parent: BasePlating
   name: tiles-hull-reinforced
-  sprite: /Textures/Tiles/hull_reinforced.png
+  sprite: /Textures/_Amour/Tiles/hull_reinforced.png
   footstepSounds:
     collection: FootstepHull
   itemDrop: FloorTileItemSteel
@@ -61,7 +61,7 @@
   id: PlatingDamaged
   parent: BasePlating
   name: tiles-plating
-  sprite: /Textures/Tiles/plating_damaged.png
+  sprite: /Textures/_Amour/Tiles/plating_damaged.png
   variants: 4 # RW-Edit: 3 > 4
   placementVariants:
   - 1.0
@@ -81,7 +81,7 @@
 - type: tile
   id: PlatingBurnt
   name: tiles-plating
-  sprite: /Textures/Tiles/plating_burnt.png
+  sprite: /Textures/_Amour/Tiles/plating_burnt.png
   # RW-Start
   variants: 4
   placementVariants:
@@ -104,7 +104,7 @@
   id: PlatingAsteroid
   parent: BasePlating
   name: tiles-asteroid-plating
-  sprite: /Textures/Tiles/Asteroid/asteroid_plating.png
+  sprite: /Textures/_Amour/Tiles/Asteroid/asteroid_plating.png
   # Goobstation - Fireaxe plating prying
   deconstructTools: [ Axing ]
   deconstructTimeMultiplier: 5 # Goobstation
@@ -113,7 +113,7 @@
   id: PlatingBrass
   parent: BasePlating
   name: tiles-brass-plating
-  sprite: /Textures/Tiles/Misc/clockwork/clockwork_floor.png
+  sprite: /Textures/_Amour/Tiles/Misc/clockwork/clockwork_floor.png
   # Goobstation - Fireaxe plating prying
   deconstructTools: [ Axing ]
   deconstructTimeMultiplier: 5 # Goobstation
@@ -122,7 +122,7 @@
   id: PlatingSnow
   name: tiles-snow-plating
   parent: BasePlating
-  sprite: /Textures/Tiles/snow_plating.png #Not in the snow planet RSI because it doesn't have any metadata. Should probably be moved to its own folder later.
+  sprite: /Textures/_Amour/Tiles/snow_plating.png #Not in the snow planet RSI because it doesn't have any metadata. Should probably be moved to its own folder later.
   # RW-Start
   variants: 4
   placementVariants:
@@ -152,7 +152,7 @@
 - type: tile
   id: Lattice
   name: tiles-lattice
-  sprite: /Textures/Tiles/lattice.png
+  sprite: /Textures/_Amour/Tiles/lattice.png
   baseTurf: Space
   isSubfloor: true
   deconstructTools: [ Cutting ]
@@ -170,6 +170,6 @@
   id: TrainLattice
   parent: Lattice
   name: tiles-lattice-train
-  sprite: /Textures/Tiles/latticeTrain.png
+  sprite: /Textures/_Amour/Tiles/latticeTrain.png
   footstepSounds:
     collection: FootstepPlating

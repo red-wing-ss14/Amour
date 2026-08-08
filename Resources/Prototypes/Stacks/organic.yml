@@ -2,7 +2,7 @@
   parent: BaseVeryLargeStack
   id: Biomass
   name: stack-biomass
-  icon: { sprite: /Textures/Objects/Misc/monkeycube.rsi, state: cube }
+  icon: { sprite: /Textures/_Amour/Objects/Misc/monkeycube.rsi, state: cube }
   spawn: MaterialBiomass1
 
 # Stacks which come from plants

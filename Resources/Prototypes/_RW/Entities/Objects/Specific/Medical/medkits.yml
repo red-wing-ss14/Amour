@@ -22,10 +22,10 @@
       components:
         - FingerprintMask
   - type: Sprite
-    sprite: _RW/Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Amour/Objects/Specific/Medical/firstaidkits.rsi
     state: surgerykit
   - type: Item
-    sprite: _RW/Objects/Specific/Medical/firstaidkits.rsi
+    sprite: _Amour/Objects/Specific/Medical/firstaidkits.rsi
     heldPrefix: surgerykit
     shape:
     - 0,0,3,2

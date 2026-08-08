@@ -129,7 +129,7 @@
       - map: [ "pocket2" ]
       - map: ["enum.HumanoidVisualLayers.Handcuffs"]
         color: "#ffffff"
-        sprite: Objects/Misc/handcuffs.rsi
+        sprite: _Amour/Objects/Misc/handcuffs.rsi
         state: body-overlay-2
         visible: false
       - map: [ "clownedon" ] # Dynamically generated

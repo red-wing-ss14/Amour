@@ -133,7 +133,7 @@
   description: Hurled like a javelin, with the power of a thousand furious janitors.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Janitorial/mop.rsi
+    sprite: _Amour/Objects/Specific/Janitorial/mop.rsi
     state: mop
     rotation: 225
     noRot: false
@@ -169,7 +169,7 @@
   description: At least you won't slip on it.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Hydroponics/banana.rsi
+    sprite: _Amour/Objects/Specific/Hydroponics/banana.rsi
     state: produce
     noRot: false
 

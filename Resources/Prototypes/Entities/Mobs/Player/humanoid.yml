@@ -76,7 +76,7 @@
   suffix: ERTRole, Death Squad
   components:
     - type: Sprite
-      sprite: Clothing/OuterClothing/Hardsuits/deathsquad.rsi
+      sprite: _Amour/Clothing/OuterClothing/Hardsuits/deathsquad.rsi
       state: icon
     - type: RandomMetadata
       nameSegments:
@@ -672,7 +672,7 @@
   name: syndicate agent
   components:
     - type: Sprite
-      sprite: Mobs/Species/Human/parts.rsi
+      sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
     - type: RandomMetadata
       nameSegments: [ NamesDeathCommando ]
@@ -694,7 +694,7 @@
   name: Nuclear Operative
   components:
     - type: Sprite
-      sprite: Mobs/Species/Human/parts.rsi
+      sprite: _Amour/Mobs/Species/Human/parts.rsi
       state: full
     - type: RandomHumanoidSpawner
       settings: NukeOp

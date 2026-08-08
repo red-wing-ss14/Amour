@@ -6,7 +6,7 @@
   parent: [PartHuman, BaseLeftHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_hand"
 
 - type: entity
@@ -15,7 +15,7 @@
   parent: [PartHuman, BaseRightHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_hand"
 
 - type: entity
@@ -24,7 +24,7 @@
   parent: [PartHuman, BaseLeftHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "l_hand"
 
 - type: entity
@@ -33,7 +33,7 @@
   parent: [PartHuman, BaseRightHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Human/parts.rsi
+    sprite: _Amour/Mobs/Species/Human/parts.rsi
     state: "r_hand"
 
 - type: entity

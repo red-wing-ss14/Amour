@@ -61,7 +61,7 @@
   name: research-technology-security-equipment-name
   description: research-technology-security-equipment-desc
   icon:
-    sprite: Objects/Tools/seclite.rsi
+    sprite: _Amour/Objects/Tools/seclite.rsi
     state: seclite
   discipline: Security
   tier: 1
@@ -395,7 +395,7 @@
   name: research-technology-energy-barriers
   description: research-technology-energy-barriers-desc
   icon:
-    sprite: _RW/Objects/Tools/EnergyDome/reinhardt.rsi
+    sprite: _Amour/Objects/Tools/EnergyDome/reinhardt.rsi
     state: icon
   discipline: Security
   tier: 2

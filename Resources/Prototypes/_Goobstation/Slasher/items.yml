@@ -321,7 +321,7 @@
   description: A multipurpose tool. Multipurpose includes murder.
   components:
   - type: Sprite
-    sprite: Objects/Tools/crowbar.rsi
+    sprite: _Amour/Objects/Tools/crowbar.rsi
     state: icon
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -329,7 +329,7 @@
       collection: MetalThud
   - type: Item
     size: Normal
-    sprite: Objects/Tools/crowbar.rsi
+    sprite: _Amour/Objects/Tools/crowbar.rsi
     shape:
     - 0,0,0,1
   - type: Tool
@@ -541,9 +541,9 @@
   description: You can't quite make out what it is.
   components:
   - type: Sprite
-    sprite: Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
   - type: Clothing
-    sprite: Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
+    sprite: _Amour/Clothing/OuterClothing/Hardsuits/lingspacesuit.rsi
     clothingVisuals:
       outerClothing:
       - state: equipped-OUTERCLOTHING

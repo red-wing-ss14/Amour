@@ -33,7 +33,7 @@ namespace Content.Client.Chemistry.UI
         public event Action<BaseButton.ButtonEventArgs, ReagentButton>? OnReagentButtonPressed;
         public readonly Button[] PillTypeButtons;
 
-        private const string PillsRsiPath = "/Textures/Objects/Specific/Chemistry/pills.rsi";
+        private const string PillsRsiPath = "/Textures/_Amour/Objects/Specific/Chemistry/pills.rsi";
 
         /// <summary>
         /// Create and initialize the chem master UI client-side. Creates the basic layout,

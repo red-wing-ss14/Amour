@@ -82,7 +82,7 @@
   components:
   # this and the name/desc get replaced, this is just placeholder incase something goes wrong
   - type: Sprite
-    sprite: /Textures/Mobs/Species/Human/parts.rsi
+    sprite: /Textures/_Amour/Mobs/Species/Human/parts.rsi
     state: full
   - type: Transform
     noRot: true # players rotation and anchor is used instead
@@ -112,7 +112,7 @@
   components:
   - type: Action
     icon:
-      sprite: Objects/Tools/wrench.rsi
+      sprite: _Amour/Objects/Tools/wrench.rsi
       state: icon
     itemIconStyle: BigAction
   - type: InstantAction

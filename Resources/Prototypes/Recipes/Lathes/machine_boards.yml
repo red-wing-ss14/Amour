@@ -75,7 +75,7 @@
 - type: latheRecipe
   parent: [ BaseCircuitboardRecipe, BaseMachineRecipeCategory ]
   id: SubstationMachineCircuitboard
-  icon: { sprite:  Structures/Power/substation.rsi, state: substation } # Goobstation
+  icon: { sprite:  _Amour/Structures/Power/substation.rsi, state: substation } # Goobstation
   result: SubstationMachineCircuitboard
 
 - type: latheRecipe
@@ -120,7 +120,7 @@
 - type: latheRecipe
   parent: [ BaseCircuitboardRecipe, BaseEngineeringMachineRecipeCategory ]
   id: EmitterCircuitboard
-  icon: { sprite:  Structures/Power/Generation/Singularity/emitter.rsi, state: emitter2 } # Goobstation
+  icon: { sprite:  _Amour/Structures/Power/Generation/Singularity/emitter.rsi, state: emitter2 } # Goobstation
   result: EmitterCircuitboard
 
 # Atmos
@@ -146,7 +146,7 @@
 - type: latheRecipe
   parent: [ BaseCircuitboardRecipe, BaseEngineeringMachineRecipeCategory ]
   id: PortableScrubberMachineCircuitBoard
-  icon: { sprite: Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi, state: icon } # Goobstation
+  icon: { sprite: _Amour/Structures/Piping/Atmospherics/Portable/portable_scrubber.rsi, state: icon } # Goobstation
   result: PortableScrubberMachineCircuitBoard
 
 - type: latheRecipe
@@ -393,7 +393,7 @@
 - type: latheRecipe
   parent: [ BaseCircuitboardRecipe, BaseGeneralMachineRecipeCategory ]
   id: ReagentGrinderMachineCircuitboard
-  icon: { sprite: Structures/Machines/grinder.rsi, state: grinder_empty } # Goobstation
+  icon: { sprite: _Amour/Structures/Machines/grinder.rsi, state: grinder_empty } # Goobstation
   result: ReagentGrinderMachineCircuitboard
 
 - type: latheRecipe

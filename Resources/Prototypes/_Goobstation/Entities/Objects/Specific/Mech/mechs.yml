@@ -50,7 +50,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: ripleymkii
@@ -108,7 +108,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: clarke
@@ -179,7 +179,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: gygax
@@ -238,7 +238,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: durand
@@ -305,7 +305,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: marauder
@@ -378,7 +378,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: seraph
@@ -454,7 +454,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: darkgygax
@@ -527,7 +527,7 @@
   - type: Sprite
     drawdepth: Mobs
     noRot: true
-    sprite: Objects/Specific/Mech/mecha.rsi
+    sprite: _Amour/Objects/Specific/Mech/mecha.rsi
     layers:
     - map: [ "enum.MechVisualLayers.Base" ]
       state: mauler

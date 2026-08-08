@@ -9,10 +9,10 @@
   description: It seems to be pulsing with suspiciously enticing energies.
   components:
   - type: Sprite
-    sprite: Objects/Specific/Syndicate/telecrystal.rsi
+    sprite: _Amour/Objects/Specific/Syndicate/telecrystal.rsi
     state: telecrystal
   - type: Item
-    sprite: Objects/Specific/Syndicate/telecrystal.rsi
+    sprite: _Amour/Objects/Specific/Syndicate/telecrystal.rsi
     size: Tiny
   - type: Stack
     count: 100

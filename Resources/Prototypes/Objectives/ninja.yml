@@ -19,7 +19,7 @@
   components:
   - type: Objective
     icon:
-      sprite: Objects/Tools/emag.rsi
+      sprite: _Amour/Objects/Tools/emag.rsi
       state: icon
   - type: NumberObjective
     min: 15

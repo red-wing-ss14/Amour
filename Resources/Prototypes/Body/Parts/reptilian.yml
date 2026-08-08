@@ -8,7 +8,7 @@
   abstract: true
   components:
   - type: Icon # Shitmed Change
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
   - type: BodyPart # Shitmed Change
     species: Reptilian
   - type: Extractable
@@ -27,7 +27,7 @@
   parent: [PartReptilian, BaseChest]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "chest_m"
   - type: Extractable
     juiceSolution:
@@ -43,7 +43,7 @@
   parent: [PartReptilian, BaseGroin]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "groin_m"
   - type: Extractable
     juiceSolution:
@@ -59,7 +59,7 @@
   parent: [PartReptilian, BaseHead]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "head_m"
   - type: Extractable
     juiceSolution:
@@ -75,7 +75,7 @@
   parent: [PartReptilian, BaseLeftArm]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "l_arm"
 
 - type: entity
@@ -84,7 +84,7 @@
   parent: [PartReptilian, BaseRightArm]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "r_arm"
 
 - type: entity
@@ -93,7 +93,7 @@
   parent: [PartReptilian, BaseLeftHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "l_hand"
 
 - type: entity
@@ -102,7 +102,7 @@
   parent: [PartReptilian, BaseRightHand]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "r_hand"
 
 - type: entity
@@ -111,7 +111,7 @@
   parent: [PartReptilian, BaseLeftLeg]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "l_leg"
 
 - type: entity
@@ -120,7 +120,7 @@
   parent: [PartReptilian, BaseRightLeg]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "r_leg"
 
 - type: entity
@@ -129,7 +129,7 @@
   parent: [PartReptilian, BaseLeftFoot]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "l_foot"
 
 - type: entity
@@ -138,5 +138,5 @@
   parent: [PartReptilian, BaseRightFoot]
   components:
   - type: Sprite
-    sprite: Mobs/Species/Reptilian/parts.rsi
+    sprite: _Amour/Mobs/Species/Reptilian/parts.rsi
     state: "r_foot"
